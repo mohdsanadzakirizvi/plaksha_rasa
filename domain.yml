@@ -1,0 +1,50 @@
+version: '2.0'
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+  - greet
+  - goodbye
+  - thanks
+  - affirm
+  - deny
+  - lang_search
+entities:
+  - language
+# slots:
+#   email:
+#     type: unfeaturized
+#     influence_conversation: false
+responses:
+  utter_greet:
+  - text: |
+      Hello! How can I help you?
+  - text: |
+      Hi!
+  - text: |
+      Hey! What can I do for you?  
+  utter_goodbye:
+  - text: |
+      Bye
+  - text: |
+      It was nice talking to you.
+  - text: |
+      See you again!
+  utter_thanks:
+  - text: |
+      Glad that I could be of help!
+  - text: |
+      Thank you!
+  - text: |
+      Happy to help :)  
+actions:
+- '...'
+- utter_greet
+- utter_goodbye
+- action_lang_search
+- utter_thanks
+# - utter_subscribed
+# forms:
+#   newsletter_form:
+#     email:
+#     - type: from_text
