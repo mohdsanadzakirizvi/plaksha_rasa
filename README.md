@@ -151,7 +151,7 @@ To get started, you should at least add the following scopes:
 
 d. On the "OAuth & Permissions" page, click "Install App to Workspace" to add the bot to your workspace:
 
-![](images/slack_install_app_to_workspace.PNG)
+![](images/slack_install_app_to_workspace.png)
 
 
 With the above set of steps done, you have nicely done majority of the setup work for the project. 
