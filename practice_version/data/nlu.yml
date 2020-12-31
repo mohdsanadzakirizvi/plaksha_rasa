@@ -1,0 +1,26 @@
+nlu:
+- intent: greet
+  examples: |
+    - Hi
+    - Hey
+
+- intent: goodbye
+  examples: |
+    - Bye           
+    - Goodbye
+
+- intent: thanks
+  examples: |
+    - Thanks
+    - Thank you
+
+- intent: affirm
+  examples: |
+    - y
+    - Y
+    - yes
+
+- intent: deny
+  examples: |
+    - no
+    - never

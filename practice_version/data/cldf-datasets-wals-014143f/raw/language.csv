@@ -1,0 +1,2663 @@
+pk,jsondata,id,name,description,markup_description,latitude,longitude,version
+353,,ktz,Kati (in Afghanistan),,,35.5,70,1
+616,,wgl,Waigali,,,35,71.25,1
+1417,,pra,Prasuni,,,35.5,71,1
+1175,,kdw,Kadiwéu,,,-20,-57,1
+2677,,mcv,Mocoví,,,-28,-60.5,1
+1626,,tob,Toba,,,-26.5,-59,1
+2603,,sid,Sidaama,,,6.66666666667,38.5,1
+1211,,abo,Arbore,,,5,36.75,1
+661,,brj,Burji,,,5.5,37.8333333333,1
+512,,bys,Bayso,,,6.25,37.75,1
+673,,dug,Dullay (Gollango),,,5.5,37.25,1
+734,,orb,Oromo (Boraana),,,4.5,38.5,1
+2513,,orh,Oromo (Harar),,,9,42,1
+1661,,orw,Oromo (Waata),,,-3.33333333333,39.8333333333,1
+827,,owc,Oromo (West-Central),,,9,37,1
+1048,,ren,Rendille,,,2,37.5,1
+591,,sao,Saho,,,14.75,39.75,1
+2364,,som,Somali,,,3,45,1
+1447,,dah,Dahalo,,,-2.33333333333,40.5,1
+2229,,nmb,Nambikuára (Southern),,,-14,-59.5,1
+1249,,kwz,Kwaza,,,-12.5833333333,-60.6666666667,1
+1128,,mdl,Matngele,,,-13.8333333333,130.416666667,1
+1,,apk,A-Pucikwar,,,12.1666666667,92.8333333333,1
+2,,aci,Achí,,,15.1666666667,-90.5,1
+3,,ash,Adyghe (Shapsugh),,,45,38.75,1
+4,,aka,Aka,,,2.66666666667,16.25,1
+5,,akb,Aka-Biada,,,11.6666666667,92.5,1
+102,,hnk,Hinuq,,,42.1666666667,46,1
+484,,wgu,Warrongo,,,-18,145,1
+916,,bnr,Bilinarra,,,-16,131.666666667,1
+1722,,jva,Karajá,,,-10,-50.3333333333,1
+982,,ghr,Bunan,,,32.5,77,1
+1346,,bno,Waimaha,,,0.333333333333,-70.25,1
+75,,grp,German (Ripuarian),,,51,7,1
+76,,gtg,German (Thurgau),,,47.5833333333,9.16666666667,1
+77,,gth,German (Thuringian),,,51,11,1
+78,,gti,German (Timisoara),,,45.75,21.25,1
+79,,gau,German (Upper Austrian),,,47,14,1
+80,,gvi,German (Viennese),,,48.1666666667,16.3333333333,1
+82,,gwe,German (Westphalian),,,52,7.5,1
+83,,gzu,German (Zurich),,,47.4166666667,8.5,1
+84,,gho,Ghotuo,,,7.08333333333,5.75,1
+149,,lge,Low German,,,53,10,1
+150,,lga,Luangiua,,,-5.33333333333,159.416666667,1
+151,,lum,Lummi,,,48.7,-122.666666667,1
+153,,lur,Luri,,,33.5,48.5,1
+154,,lux,Luxemburgeois,,,49.8333333333,6.16666666667,1
+155,,mca,Maca,,,-25,-57.5,1
+156,,mdz,Mada (in Nigeria),,,8.75,8.25,1
+159,,mhm,Mah Meri,,,2.83333333333,101.5,1
+26,,bjs,Sama (Southern),,,4.5,118.5,1
+298,,cco,Chasta Costa,,,42.6666666667,-124,1
+299,,ctt,Chatino (Tataltepec),,,16.1666666667,-97.5833333333,1
+300,,cmk,Chemakum,,,48.0833333333,-122.916666667,1
+301,,cec,Chicomuceltec,,,15.5,-92.25,1
+372,,lsa,Lengua de Señas Argentina,,,-34,-63,1
+444,,rse,Romani (Sepecides),,,38.25,27,1
+445,,rsl,Russian Sign Language,,,56,44,1
+446,,smj,Semai,,,4.33333333333,101.666666667,1
+25,,bah,Xiriana,,,2.66666666666667,-62.5,2
+518,,buk,Bukusu,,,0.75,34.6666666667,1
+519,,buw,Bulu,,,3,11,1
+520,,chm,Chamalal,,,42.55,46.05,1
+522,,dab,Daba,,,10.1666666667,13.75,1
+523,,def,Defaka,,,4.58333333333,7.5,1
+593,,sps,Salish (Southern Puget Sound),,,47.25,-122.5,1
+594,,sbg,Sama (Balangingi),,,6.16666666667,121.833333333,1
+596,,sen,Sena,,,-18,35.25,1
+1921,,amu,Amuesha,,,-10.5,-75.4166666667,2
+597,,shw,Shawnee,,,40,-83,1
+598,,shr,Shor,,,53,88,1
+600,,svc,Slovincian,,,54,16,1
+601,,sol,Solon,,,48,120,1
+602,,sub,Subiya,,,-17.75,24.9166666667,1
+603,,suk,Suki,,,-8,141.75,1
+667,,cla,Clallam,,,48.0833333333,-123.75,1
+668,,cog,Cogui,,,11,-73.8333333333,1
+743,,ski,Saami (Kildin),,,67,37,1
+818,,mil,Milang,,,28.5,95.25,1
+969,,agw,Alagwa,,,-5.5,35.75,1
+970,,arl,Arabic (Lebanese),,,34,36,1
+971,,ats,Atsugewi,,,40.75,-121,1
+972,,brk,Berik,,,-2.25,138.833333333,1
+1045,,nkk,Nakkara,,,-12.1166666667,134.416666667,1
+1046,,nbb,Nambas (Big),,,-16.0833333333,167.2,1
+1121,,klr,Koluri,,,37,48,1
+1123,,krh,Krahô,,,-8,-48,1
+1124,,kuk,Kukú,,,5.83333333333,31.6666666667,1
+1199,,srm,Saramaccan,,,4.5,-55.5,1
+1200,,shh,Sharanahua,,,-11,-70,1
+1274,,shm,Shambala,,,-4.25,38.25,1
+1276,,sod,Soddo,,,8.5,38.5,1
+1277,,sui,Sui,,,26,107.5,1
+1278,,tmp,Tampulma,,,10.4166666667,-0.583333333333,1
+1279,,tok,Tarok,,,9,10.0833333333,1
+1350,,crp,Carapana,,,0.833333333333,-70.75,1
+1351,,dam,Damana,,,11,-73.5,1
+1428,,tpi,Tok Pisin,,,-9.5,147.166666667,1
+1429,,tou,Southern Toussian,,,11,-4.66666666667,1
+1430,,tgh,Tuareg (Ghat),,,25,10.1666666667,1
+1431,,tnk,Tungak,,,-2.55,150.25,1
+1503,,djm,Djambarrpuyngu,,,-12.1666666667,135.5,1
+1504,,gav,Gavião,,,-10.6666666667,-62,1
+1581,,amn,Amanab,,,-3.58333333333,141.25,1
+1582,,aml,Ambae (Lolovoli Northeast),,,-15.4166666667,167.883333333,1
+1657,,mlm,Mlabri (Minor),,,18.5,101,1
+1658,,ngn,Ngandi,,,-13.8333333333,135,1
+1735,,rny,Runyankore,,,-0.5,30.5,1
+1736,,sak,Sakao,,,-15.1666666667,167.083333333,1
+1737,,shs,Shasta,,,41.8333333333,-122.666666667,1
+1738,,sis,Sisiqa,,,-7,156.833333333,1
+1739,,son,Sonsorol-Tobi,,,5.33333333333,132.25,1
+1740,,sti,Stieng,,,11.8333333333,106.75,1
+1813,,pga,Pilagá,,,-25,-60,1
+1814,,qaf,Qafar,,,12,42,1
+1810,,ndb,Ndebele (in South Africa),,,-25.3333333333,29,1
+1811,,ngd,Ngad'a,,,-8.83333333333,121,1
+1812,,olo,Olo,,,-3.41666666667,142,1
+1815,,seb,Sebei,,,1.33333333333,34.5833333333,1
+1886,,acl,Acholi,,,3,32.6666666667,1
+1887,,adk,Andoke,,,-0.666666666667,-72,1
+1889,,chi,Chimariko,,,41,-123,1
+1963,,ses,Sesotho,,,-28,27,1
+1964,,sio,Sio,,,-5.95,147.333333333,1
+1965,,twe,Tarahumara (Western),,,27.5,-108,1
+1966,,tic,Ticuna,,,-4,-70.5,1
+2038,,brn,Burunge,,,-5.33333333333,36,1
+2039,,ccm,Chinantec (Comaltepec),,,17.5833333333,-96.4166666667,1
+2040,,ctm,Chitimacha,,,29.6666666667,-91,1
+2114,,kmb,Kombai,,,-5.58333333333,140,1
+2115,,lon,Loniu,,,-2.06666666667,147.333333333,1
+2116,,mde,Mende,,,7.83333333333,-11.5,1
+2190,,kos,Kosraean,,,5.3,163,1
+2191,,nuu,Nuuchahnulth,,,49.6666666667,-126.666666667,1
+2192,,oss,Ossetic,,,43,44,1
+2266,,bsk,Bashkir,,,53,58,1
+2267,,mlk,Malakmalak,,,-13.4166666667,130.416666667,1
+2268,,mns,Mansi,,,62,62,1
+2344,,chv,Chuvash,,,55.5,47.5,1
+2345,,dut,Dutch,,,52.5,6,1
+2419,,cmn,Comanche,,,33.5,-101.5,1
+2495,,ngi,Ngiyambaa,,,-31.75,145.5,1
+2496,,brm,Burmese,,,21,96,1
+2497,,kro,Krongo,,,10.5,30,1
+2570,,wkw,Wagawaga,,,-26.5,152.5,1
+2571,,wgg,Wangkangurru,,,-27,137,1
+2572,,wbt,Wanman,,,-22,123,1
+2573,,wru,Warumungu,,,-19.5,134.5,1
+1974,,au,Au,,,-3.58333333333,142.083333333,1
+6,,akc,Aka-Cari,,,13.5,93,1
+7,,akk,Aka-Kede,,,12.75,92.75,1
+10,,alt,Alsatian,,,48.5,7.5,1
+11,,anx,Andi,,,42.75,46.25,1
+12,,abh,Arabic (Bahrain),,,26,50.5,1
+13,,arn,Arabic (Borno Nigerian),,,8.58333333333,12.4166666667,1
+14,,akm,Arakanese (Marma),,,21.5,92.5,1
+15,,ard,Arandai,,,-2.08333333333,133,1
+16,,arz,Armenian (Iranian),,,32.6666666667,51.6666666667,1
+17,,arr,Arrernte,,,-24,134,1
+18,,ast,Asturian,,,43.25,-6,1
+19,,aul,Aulua,,,-16.3333333333,167.666666667,1
+20,,auy,Auyana,,,-6.5,145.75,1
+21,,avt,Avatime,,,6.83333333333,0.416666666667,1
+22,,ayn,Aynu,,,39.5,76,1
+23,,bdg,Badaga,,,11.6666666667,76.75,1
+24,,bgi,Bagri,,,29.5833333333,74.3333333333,1
+27,,bmn,Bamun,,,5.5,10.9166666667,1
+28,,ban,Bana,,,10.4166666667,13.5833333333,1
+29,,bnd,Bandi,,,8.08333333333,-10.25,1
+30,,brl,Baragaunle,,,28.8333333333,83.8333333333,1
+32,,bth,Bathari,,,18,56,1
+33,,bou,Berber (Wargla),,,31.9166666667,5.33333333333,1
+34,,bfd,Biafada,,,11.4166666667,-15.1666666667,1
+35,,bit,Biatah,,,1.25,110,1
+37,,bos,Bosnian,,,43,18,1
+38,,bru,Bru (Eastern),,,17.3333333333,106,1
+39,,buy,Buli (in Ghana),,,10.5,-1.25,1
+40,,bpa,Bura-Pabir,,,10.5,12.25,1
+42,,cht,Chatino (Nopala),,,16.0833333333,-97.1666666667,1
+43,,ckh,Cheke Holo,,,-8.33333333333,159.666666667,1
+44,,csc,Chinantec (Sochiapan),,,17.75,-96.6666666667,1
+45,,cpw,Chippewa (Red Lake and Pillager),,,48,-95,1
+47,,cly,Chulym,,,54.3333333333,89.6666666667,1
+48,,cwe,Columbia-Wenatchi,,,47.5,-120,1
+51,,dda,Dhuwal (Dätiwuy),,,-12.1666666667,136.25,1
+52,,dgi,Dogri,,,33,75,1
+53,,dol,Dolgan,,,71.25,98,1
+54,,dbr,Dutch (Brabantic),,,50.75,4.5,1
+55,,dli,Dutch (Limburg),,,51,5.5,1
+56,,duz,Dutch (Zeeuws),,,51.5,3.75,1
+57,,els,Elseng,,,-3,140.5,1
+59,,ets,Etsako,,,7.25,6.5,1
+60,,fiw,Fijian (Wayan),,,-17,177.3,1
+61,,fea,Frisian (Eastern),,,53.5833333333,7.5,1
+62,,fno,Frisian (North),,,54.5,9,1
+63,,fli,Ful (Liptako),,,13.5,0.5,1
+64,,fbf,Fula (Burkina Faso),,,14,0,1
+66,,fum,Fulfulde (Maasina),,,15,-5,1
+67,,gml,Gamilaraay,,,-29.8333333333,149.5,1
+68,,gpz,German (Appenzell),,,47.3333333333,9.33333333333,1
+69,,gba,German (Bavarian),,,49,11.5,1
+70,,gbl,German (Berlin),,,52.5,13.3333333333,1
+71,,gbe,German (Bern),,,47,7.41666666667,1
+72,,gha,German (Hannover),,,52.4166666667,9.66666666667,1
+73,,gma,German (Mansfeldisch),,,51.5833333333,11.5,1
+74,,gos,German (Ostschweiz),,,47.4166666667,9.25,1
+8,,awk,Akwa,,,10.0833333333,6.33333333333,2
+85,,gdr,Gidar,,,10,14,1
+86,,giz,Giziga,,,10.3333333333,14.1666666667,1
+88,,gcy,Greek (Cypriot),,,34.75,33,1
+89,,gdl,Guadeloupe Creole,,,16.25,-61.5,1
+1905,,mon,Mon,,,14.8333333333,100.5,1
+90,,guq,Guaque,,,1,-72.0833333333,1
+91,,gue,Guere,,,6.66666666667,-7.75,1
+92,,gfr,Guianese French Creole,,,5,-53,1
+93,,gbc,Guinea Bissau Crioulo,,,12,-15,1
+94,,gmt,Gumatj,,,-12.5,135.5,1
+96,,gro,Guro,,,7,-6,1
+97,,gus,Gusii,,,-0.75,34.8333333333,1
+98,,hsl,Haisla,,,54,-128.75,1
+99,,hrr,Harari,,,9.25,42.1666666667,1
+100,,hav,Havasupai,,,35.75,-112.5,1
+101,,hia,Hianacoto,,,0.833333333333,-71,1
+103,,hre,Hre,,,14.6666666667,108.666666667,1
+104,,hyo,Hyow,,,22.0833333333,92.4166666667,1
+106,,ibi,Ibibio,,,5.25,7.83333333333,1
+107,,ipk,Indo-Pakistani Sign Language (Karachi dialect),,,28,68,1
+110,,isl,International Sign,,,40,-170,1
+111,,ish,Ishkashmi,,,37,72,1
+113,,itb,Italian (Bologna),,,44.5,11.3333333333,1
+114,,ifi,Italian (Fiorentino),,,43.75,11.25,1
+115,,itg,Italian (Genoa),,,44.4166666667,8.95,1
+116,,itn,Italian (Napolitanian),,,40.9166666667,14.25,1
+117,,itu,Italian (Turinese),,,45,7.66666666667,1
+119,,izh,Izhor,,,59,29,1
+120,,jcr,Jamaican Creole,,,18.1666666667,-77.25,1
+121,,jib,Jibbali,,,17.5,55,1
+122,,jrn,Juruna,,,-5,-54.5,1
+123,,kbi,Kabui,,,24.8333333333,94,1
+124,,kgm,Kagoma,,,9.25,8.16666666667,1
+125,,kiq,Kalmyk (Issyk-Kul),,,42.4166666667,78.3333333333,1
+127,,ksu,Kashubian,,,54,18,1
+133,,ksl,Kenyan Sign Language,,,0,38,1
+136,,kfy,Kirghiz (Fu-Yu),,,47.75,124.416666667,1
+137,,kij,Kitja,,,-17.5,127.75,1
+138,,kou,Kom,,,6.25,10.3333333333,1
+139,,ksp,Kosop,,,9.91666666667,15.9166666667,1
+141,,kym,Krymchak,,,45,34.25,1
+142,,krz,Kryz,,,41.0833333333,48,1
+143,,kua,Kualan,,,-0.416666666667,110.416666667,1
+145,,lha,Laha,,,21.5833333333,103.916666667,1
+146,,lns,Lamnso',,,6.16666666667,10.75,1
+147,,lgp,Língua Gestual Portuguesa,,,40,-8,1
+148,,lma,Loma,,,8,-9.5,1
+87,,grt,Gorontalo,,,0.5,122,2
+105,,ibn,Ibanag,,,17.5,121.666666667,2
+162,,mli,Mali,,,-4.83333333333,152.25,1
+163,,mbu,Manambu,,,-4.25,142.833333333,1
+164,,mma,Mandaic (Modern),,,31,48.5,1
+166,,mnk,Maninka,,,10.5,-9.5,1
+167,,mkn,Mankanya,,,12.0833333333,-15.9166666667,1
+168,,mqc,Martinique Creole,,,14.6666666667,-61,1
+169,,mtk,Matukar,,,-4.91666666667,145.75,1
+170,,mbz,Mbe',,,6.28333333333,11.0833333333,1
+172,,mcf,Michif,,,52,-100.166666667,1
+173,,mce,Mískito Coast English Creole,,,16.25,-88.8333333333,1
+174,,mxl,Mixtec (Alacatlatzala),,,17.25,-98.5833333333,1
+175,,mll,Molala,,,44.5,-122.5,1
+176,,mol,Moldavian,,,47,29,1
+177,,mdb,Mudburra,,,-17.3333333333,132.083333333,1
+178,,muh,Muher,,,8.16666666667,38.1666666667,1
+179,,mnu,Mun,,,19,110,1
+180,,muo,Muong,,,20.5,105.083333333,1
+181,,nhc,Nahuatl (Central),,,19,-98.25,1
+182,,nhp,Nahuatl (Pochutla),,,15.75,-96.5,1
+183,,nnt,Nanticoke,,,38,-76.25,1
+185,,ntu,Nenets,,,70,76,1
+186,,naa,Neo-Aramaic (Amadiya),,,37,43,1
+187,,ngy,Ngarinyman,,,-16.5,130.5,1
+188,,nge,Ngemba,,,6.2,10,1
+189,,nic,Nicobarese,,,7,93.8333333333,1
+131,,keo,Keo,,,-8.83333333333,121.25,1
+190,,nok,Noghay (Karagash),,,47.5,47.25,1
+191,,nte,Norsk Tegnspråk,,,61,9,1
+192,,nnn,Nuni (Northern),,,12.1666666667,-3,1
+193,,oi,Oi,,,14.8333333333,107.166666667,1
+194,,oku,Oku,,,6.25,10.5,1
+195,,oma,Omagua,,,-4,-73.5,1
+196,,ora,Emai,,,7.08333333333,5.91666666667,1
+197,,pte,Paite,,,24,93.1666666667,1
+198,,pak,Pakanha,,,-14.5,142.416666667,1
+199,,pgl,Pingilapese,,,6.21666666667,160.7,1
+200,,psl,Plains-Indians Sign Language,,,40,-100,1
+202,,pri,Príncipense,,,1.61666666667,7.36666666667,1
+203,,pro,Provençal,,,44,6,1
+204,,qbo,Quechua (Bolivian),,,-20,-66,1
+205,,rag,Raga,,,-15.5,168.166666667,1
+206,,rbu,Romani (Bugurdzi),,,42.6666666667,21.1666666667,1
+207,,rbg,Romani (Burgenland),,,47.5,16.5,1
+208,,rlo,Romani (Lovari),,,47,21.5,1
+210,,sch,Saanich,,,48.5833333333,-123.416666667,1
+211,,sae,Saek,,,17.4166666667,104.75,1
+212,,sst,Salish (Straits),,,48.75,-123.25,1
+213,,syg,Saryg Yughur,,,38.75,99.75,1
+214,,smd,Semandang,,,-0.75,110.5,1
+215,,swr,Shoshone (Wind River),,,43.4166666667,-108.833333333,1
+216,,sik,Sika,,,-8.7,122.25,1
+218,,sgs,Songish,,,48.45,-123.333333333,1
+219,,soo,Sooke,,,48.3333333333,-123.75,1
+220,,spc,Spanish (Canary Islands),,,28,-15.5833333333,1
+221,,swv,Swedish (Västerbotten),,,64.25,19.75,1
+217,,sry,Siraya,,,23,120.25,1
+224,,tsp,Tamil (Spoken),,,11,78,1
+225,,ttb,Tatar (Baraba),,,55.3333333333,78.3333333333,1
+226,,tmi,Tatar (Mishar),,,55.5,49,1
+227,,tlb,Tatar-Noghay (Alabugat),,,47.4166666667,45.6666666667,1
+228,,tll,Taulil,,,-4.41666666667,152.083333333,1
+229,,tay,Tayo,,,-22,166.333333333,1
+231,,tpc,Tepecano,,,21.75,-104.75,1
+232,,thw,Thao,,,23.8833333333,120.916666667,1
+233,,tnd,Tindi,,,42.3666666667,46.25,1
+234,,tod,Tod,,,32.4166666667,77.25,1
+236,,tmk,Tumak,,,9.5,17.3333333333,1
+237,,tex,Turkic (East-Central Xorasan),,,37,59,1
+238,,twx,Turkic (West Xorasan),,,36.6666666667,56,1
+239,,twa,Twana,,,47.6666666667,-122.75,1
+240,,ulc,Ulcha,,,52.25,140.333333333,1
+241,,umu,Umaua,,,1,-72,1
+242,,urh,Urhobo,,,5.58333333333,6,1
+243,,usl,Urubú Sign Language,,,-2.33333333333,-46,1
+244,,urm,Urum,,,47.1166666667,37.55,1
+245,,vat,Vata,,,5.83333333333,-5.41666666667,1
+246,,vep,Veps,,,60,35,1
+248,,wmn,Wéménugbé,,,6.66666666667,2.5,1
+249,,xas,Xasonga,,,14.25,-10.5,1
+251,,ygn,Yaghnobi,,,39,69,1
+252,,yba,Yamba,,,6.41666666667,11.0833333333,1
+253,,ynm,Yanomámi,,,2.33333333333,-63,1
+254,,yem,Yemba,,,5.41666666667,10.0833333333,1
+255,,ydb,Yiddish (Bessarabian),,,47,28.5,1
+256,,ylt,Yiddish (Lithuanian),,,55,25,1
+257,,ydl,Yiddish (Lodz),,,51.75,19.4166666667,1
+258,,yug,Yugh,,,61,90,1
+259,,yrc,Yuracare,,,-16.5833333333,-65.25,1
+260,,yrm,Yurimangí,,,3.83333333333,-77,1
+261,,yta,Yurt Tatar,,,46.3333333333,48.5,1
+262,,zpi,Zapotec (Ixtlan),,,17.25,-96.5,1
+263,,zhn,Zhuang (Northern),,,24,108,1
+264,,zqr,Zoque (Rayon),,,17.0833333333,-93,1
+209,,rsh,Shughni,,,38.1666666667,71.5,1
+265,,zno,Zulu (Northern),,,-28,31,1
+266,,zso,Zulu (Southern),,,-31,30,1
+267,,abw,Abenaki (Western),,,44,-72.25,1
+268,,ada,Adamorobe Sign Language,,,5.83333333333,-0.166666666667,1
+269,,adt,Adyghe (Temirgoy),,,45.2166666667,39.7,1
+270,,aji,Ajië,,,-21.3333333333,165.5,1
+271,,axv,Akhvakh,,,42.3333333333,46.3333333333,1
+272,,alg,Algonquin,,,46,-77,1
+273,,amd,Amdo,,,35,100,1
+274,,asl,American Sign Language,,,39,-78,1
+276,,arx,'Are'are,,,-9.25,161.166666667,1
+277,,ati,Atikamekw,,,48,-74,1
+278,,aus,Auslan,,,-30,145,1
+279,,bad,Bade,,,12.8333333333,10.5,1
+281,,bca,Bandjalang (Casino),,,-28.9166666667,153,1
+282,,bau,Bau,,,-5.25,145.616666667,1
+283,,beb,Benabena,,,-6.16666666667,145.5,1
+284,,bnq,Beng,,,7.83333333333,-4.25,1
+285,,bec,Bengali (Chittagong),,,22.3333333333,91.8333333333,1
+286,,beo,Beothuk,,,48,-57,1
+287,,bmz,Berber (Mzab),,,32.5,3.5,1
+288,,brz,Birri,,,5.5,25.1666666667,1
+289,,bsm,Bislama,,,-16,168,1
+290,,brc,Boruca,,,8.83333333333,-83.25,1
+291,,bsl,British Sign Language,,,52,-1,1
+292,,buj,Bujeba,,,3,10.1666666667,1
+293,,cab,Cabécar,,,9.75,-83.4166666667,1
+294,,cnm,Canamarí,,,-6.5,-68.5,1
+295,,cnl,Canela,,,-7,-45,1
+296,,crl,Carolinian,,,15.2,145.75,1
+297,,cat,Catio,,,7.16666666667,-76.3333333333,1
+302,,cma,Chimila,,,10,-74,1
+303,,csf,Chinantec (San Felipe Usila),,,17.9166666667,-96.5,1
+304,,cte,Chinantec (Tepetotutla),,,17.8333333333,-96.5,1
+305,,csl,Chinese Sign Language,,,35,115,1
+306,,clc,Colac,,,-38.3333333333,143.5,1
+307,,cmc,Comecrudo,,,25.8333333333,-99,1
+308,,com,Comorian,,,-12,44,1
+309,,ctc,Cuicatec,,,17.8333333333,-96.8333333333,1
+310,,cut,Cuitlatec,,,17.5,-101,1
+312,,dat,Datooga,,,-4.33333333333,35.3333333333,1
+313,,dgx,Degexit'an,,,62,-160,1
+315,,dyu,Dyula,,,9.83333333333,-4.66666666667,1
+316,,eny,Enya,,,-0.5,25.25,1
+317,,ewa,Ewe (Anglo),,,6,1,1
+318,,fsl,Finnish Sign Language,,,62,26,1
+319,,fus,Fula (Senegal),,,15,-14,1
+320,,gsl,Greek Sign Language,,,38.5,22,1
+321,,gso,Greenlandic (South),,,60,-44,1
+322,,gna,Guana,,,-22,-58,1
+323,,gyb,Guayabero,,,2.83333333333,-72,1
+324,,gir,Gula Iro,,,10.25,19.4166666667,1
+325,,gji,Gurindji,,,-17.6666666667,130.666666667,1
+326,,grm,Gurma,,,12.25,1,1
+327,,hrs,Harsusi,,,20,56.5,1
+328,,hks,Hong Kong Sign Language,,,22.5,114,1
+329,,hmb,Huambisa,,,-4,-78,1
+330,,ics,Icelandic Sign Language,,,65,-18,1
+331,,ill,Illinois,,,40,-90,1
+332,,ina,Inanwatan,,,-2.08333333333,132.083333333,1
+333,,ipi,Indo-Pakistani Sign Language (Indian dialects),,,24,80,1
+334,,inr,Inuktitut (Rankin Inlet),,,63,-92,1
+335,,irs,Irish Sign Language,,,53.5,-7.5,1
+336,,iss,Israeli Sign Language,,,32,34.8333333333,1
+338,,ixc,Ixcatec,,,17.8333333333,-97.1666666667,1
+339,,jah,Jahai,,,5.75,101.5,1
+340,,jem,Jemez,,,35.8333333333,-107,1
+341,,jun,Juang,,,21.3333333333,86,1
+342,,kai,Kaian,,,-4.08333333333,144.75,1
+343,,klz,Kalanga,,,-20.5,27.5,1
+344,,klh,Kalasha,,,35,72,1
+345,,kgt,Kangiryuarmiut,,,68.3333333333,-133.75,1
+346,,kea,Kanjobal (Eastern),,,15.3333333333,-91.6666666667,1
+348,,kyo,Kanyok,,,-7.33333333333,23.5833333333,1
+349,,kpn,Kapingamarangi,,,1.05,154.75,1
+350,,krg,Karanga,,,-20,31,1
+351,,kdg,Karipuna (Panoan),,,-10,-65,1
+352,,kkl,Kata Kolok,,,-8.25,115.166666667,1
+354,,kto,Kato,,,39.6666666667,-123.666666667,1
+355,,kaq,Kaurna,,,-34.25,138.5,1
+357,,kyg,Kenyang,,,5.66666666667,9.5,1
+358,,khu,Khumi,,,21.9166666667,92.4166666667,1
+359,,klb,Kilba,,,10.3333333333,13.1666666667,1
+360,,ktb,Kituba,,,-5,17.5,1
+361,,kln,Kolana,,,-8.25,125.116666667,1
+362,,krf,Korafe,,,-9.05,149.083333333,1
+363,,ksi,Ksingmul,,,21.0833333333,104,1
+365,,kth,Kutchin,,,67,-146,1
+366,,lch,Lachi,,,22.6666666667,104.833333333,1
+367,,ldn,Ladin,,,46.5833333333,11.9166666667,1
+368,,lsf,Langue des Signes Française,,,47,3,1
+369,,lsq,Langue des Signes Québecoise,,,48,-75,1
+370,,lrd,Lardil,,,-16.5,139.333333333,1
+371,,lau,Lau,,,-9.58333333333,161.5,1
+311,,cur,Curripaco,,,2.5,-68.5,2
+373,,lse,Lengua de Señas Española,,,40,-3,1
+374,,les,Lese,,,2,29,1
+375,,lcr,Lesser Antillean French Creole,,,15,-61.1666666667,1
+376,,lsb,Língua de Sinais Brasileira,,,-15,-48,1
+377,,lii,Lingua Italiana dei Segni,,,42,13,1
+378,,lob,Lobi,,,10.5,-3.25,1
+379,,lgt,Logoti,,,3.5,30,1
+380,,lok,Loko,,,9.33333333333,-12.0833333333,1
+381,,lgh,Lughat al-Isharat al-Lubnaniya,,,34,35.8333333333,1
+382,,lye,Lyele,,,12.5,-2.66666666667,1
+383,,mcg,Macaguán,,,6.5,-71.3333333333,1
+384,,mcn,Macuna,,,-0.333333333333,-70.1666666667,1
+385,,mhc,Mahican,,,42.6666666667,-73.5,1
+386,,mkw,Máku,,,0.416666666667,-69.8333333333,1
+387,,mjk,Manjaku,,,12,-16.25,1
+388,,mpy,Mapoyo,,,6,-67,1
+389,,mtl,Mattole,,,40.1666666667,-124.166666667,1
+390,,mij,Miju,,,29,96,1
+391,,mkr,Mikarew,,,-4.41666666667,144.916666667,1
+392,,mgl,Mingrelian,,,42.5,42,1
+393,,mit,Mituku,,,-1.66666666667,25.5,1
+394,,mkb,Miwok (Bodega),,,38.3333333333,-123,1
+395,,mwl,Miwok (Lake),,,38.9166666667,-122.666666667,1
+396,,mwp,Miwok (Plains),,,38,-121,1
+397,,mth,Mixe (Tlahuitoltepec),,,17.0833333333,-96.1666666667,1
+398,,mxu,Mixtec (Chayuco),,,16.4166666667,-97.8333333333,1
+399,,mxz,Mixtec (Coatzospan),,,18.0833333333,-96.5833333333,1
+400,,mjc,Mixtec (San Juan Colorado),,,16.5,-98,1
+401,,mxg,Mixtec (San Miguel el Grande),,,17.05,-97.5666666667,1
+402,,mxs,Mixtec (Silacayoapan),,,17.5,-98.1666666667,1
+406,,muy,Muyuw,,,-9.08333333333,152.75,1
+407,,npn,Naga Pidgin,,,25.6666666667,94,1
+408,,nhu,Nahuatl (Huauchinango),,,20.1666666667,-98.0833333333,1
+409,,nmp,Nahuatl (Milpa Alta),,,19.25,-99.1666666667,1
+410,,npa,Nahuatl (Pajapan),,,18.25,-94.75,1
+411,,nhx,Nahuatl (Xalitla),,,18,-99.5,1
+412,,nnm,Nanumea,,,-5.66666666667,176.116666667,1
+413,,nsk,Naskapi,,,56,-70,1
+414,,ntn,Nateni,,,10.5,1.16666666667,1
+415,,ndg,Ndogo,,,7.75,27,1
+416,,ned,Nederlandse Gebarentaal,,,52.25,5.5,1
+417,,neg,Negidal,,,53,139,1
+418,,nzs,New Zealand Sign Language,,,-43,172,1
+419,,nlu,Ngarluma,,,-20.8333333333,117.5,1
+405,,mti,Barí,,,9,-73,1
+420,,nih,Nihon Shuwa (Japanese Sign Language),,,36,139,1
+421,,nit,Nitinaht,,,48.6666666667,-124.75,1
+422,,nif,Niuafo'ou,,,-15.5666666667,-175.616666667,1
+423,,nuk,Nukak,,,2.5,-71.5,1
+424,,nju,Nyungar,,,-33.75,122,1
+425,,onn,Onondaga,,,42.75,-76.1666666667,1
+426,,oko,Oriya (Kotia),,,18.3333333333,83,1
+427,,orl,Orokolo,,,-7.83333333333,145.333333333,1
+428,,osm,Otomí (Santiago Mexquititlan),,,20.0833333333,-100.083333333,1
+429,,pen,Pengo,,,19.8333333333,83.8333333333,1
+431,,prt,Piratapuyo,,,0.333333333333,-69.5,1
+432,,pla,Playero,,,7,-71,1
+434,,psv,Popoloca (San Vicente Coyotepec),,,18.25,-97.8333333333,1
+435,,pot,Potawatomi,,,44.5,-85,1
+436,,pow,Powhatan,,,37.3333333333,-76.5,1
+437,,pui,Puinave,,,4,-68,1
+438,,qan,Quechua (Ancash),,,-8.5,-77.5,1
+439,,qca,Quechua (Cajamarca),,,-7,-78.5,1
+441,,rng,Rengao,,,14.5833333333,107.833333333,1
+442,,rnn,Rennellese,,,-11.6166666667,160.25,1
+517,,blq,Bole,,,11.3333333333,11.25,1
+430,,ppc,Piapoco,,,4,-69.5,2
+404,,moc,Moca,,,7.58333333333,35.5,2
+447,,shd,Sherdukpen,,,27,92.5,1
+448,,sri,Siriano,,,0.75,-70.1666666667,1
+449,,slv,Slavey,,,60,-120,1
+450,,sge,Songe,,,-6.83333333333,22,1
+451,,srl,Sorbian (Lower),,,51.75,14.3333333333,1
+452,,ssl,South Korean Sign Language,,,37,128,1
+453,,svt,Svenska Teckenspråket,,,59,15,1
+454,,tbs,Tabassaran,,,41.8333333333,47.9166666667,1
+455,,tzi,Taiwanese Sign Language (Ziran Shouyu),,,24,121,1
+456,,taz,Talysh (Azerbaijan),,,38.75,48.6666666667,1
+457,,tnj,Tanaina,,,62,-150,1
+458,,tnl,Tanana (Lower),,,65,-150,1
+459,,tsl,Tanzania Sign Language,,,-6,35,1
+460,,tpt,Tapieté,,,-19.75,-61.6666666667,1
+461,,toy,Tasmanian (Oyster Bay to Pitwater),,,-42.5,147.75,1
+462,,tmu,Tat (Muslim),,,41.25,48.75,1
+463,,tty,Tatuyo,,,0.416666666667,-70.5,1
+464,,trg,Tewa (Rio Grande),,,36.25,-106.166666667,1
+465,,tsj,Tewa (San Juan Pueblo),,,36.0833333333,-106.083333333,1
+466,,ths,Thai Sign Language,,,15,101,1
+467,,tbe,Tigré (Beni Amer),,,15.5,38,1
+468,,tws,Tiwa (Southern),,,35,-106.333333333,1
+469,,tda,Toda,,,11.4166666667,76.75,1
+470,,tof,Tofa,,,53.75,98,1
+471,,tos,Totonac (Sierra),,,19.9166666667,-97.4166666667,1
+472,,trc,Trique (Chicahuaxtla),,,17.1666666667,-97.8333333333,1
+473,,tub,Tubar,,,27,-108,1
+474,,tui,Türk Isaret Dili,,,39,34,1
+475,,tut,Tutchone (Northern),,,63,-137,1
+476,,tze,Tzeltal,,,16.8333333333,-92.25,1
+478,,tzt,Tzeltal (Tenejapa),,,16.6666666667,-92.3333333333,1
+480,,ugs,Ugandan Sign Language,,,1,32.5,1
+481,,uri,Urim,,,-3.58333333333,142.666666667,1
+482,,ved,Vedda,,,7,81,1
+483,,vla,Vlaamse Gebarentaal,,,51,4,1
+485,,xar,Xârâcùù,,,-21.6666666667,166,1
+486,,yak,Yaka,,,-7,17.5,1
+488,,yrr,Yaruro,,,7,-68,1
+489,,yms,Yemsa,,,7.83333333333,37.3333333333,1
+490,,ydd,Yiddish,,,52,23,1
+491,,yyo,Yorta Yorta,,,-36,146,1
+492,,yrt,Yuruti,,,1,-70.4166666667,1
+493,,zaj,Zapotec (Juárez),,,17.5,-96.5833333333,1
+494,,zam,Zapotec (Mixtepec),,,16.3333333333,-96.3333333333,1
+495,,zzo,Zapotec (Zoogocho),,,17.25,-96.25,1
+496,,zfl,Zoque (Francisco León),,,17.3333333333,-93.25,1
+497,,alc,Allentiac,,,-31,-68,1
+498,,aso,Altai (Southern),,,51,87,1
+499,,alu,Alutor,,,61,165,1
+500,,anu,Anufo,,,10.0833333333,0.25,1
+501,,apj,Apache (Jicarilla),,,36.5833333333,-104,1
+502,,ahs,Arabic (Bani-Hassan),,,20,-10,1
+503,,arh,Arabic (Hijazi),,,26,38,1
+504,,ako,Arabic (Kormakiti),,,35.25,33.5,1
+505,,anl,Arabic (North Levantine Spoken),,,33.75,36,1
+506,,ark,Araki,,,-15.6666666667,166.916666667,1
+508,,aho,Arapaho,,,40,-103,1
+509,,blj,Baale,,,6.5,34.5,1
+510,,bkn,Bakundu,,,4.83333333333,9.33333333333,1
+511,,bnl,Banggarla,,,-32,137,1
+513,,bga,Benga,,,1.16666666667,9.41666666667,1
+514,,bim,Bima,,,-8.5,118.5,1
+516,,boi,Boiken,,,-3.5,143.5,1
+524,,den,Dení,,,-6,-67,1
+525,,dge,Deutsche Gebärdensprache,,,52,11,1
+526,,dng,Ding,,,-4.33333333333,19.5,1
+527,,eip,Eipo,,,-4.33333333333,140.083333333,1
+528,,frw,Frisian (Western),,,53,6,1
+529,,fgu,Fula (Guinean),,,11.5,-12.5,1
+530,,gad,Gade,,,8.66666666667,7.41666666667,1
+531,,glc,Galician,,,43,-8,1
+532,,grs,Garus,,,-4.95,145.666666667,1
+533,,goj,Gojri,,,32.75,76.25,1
+534,,gre,Greenlandic (East),,,65,-40,1
+535,,gno,Guanano,,,0.833333333333,-69.5,1
+536,,gdf,Guduf,,,11.2333333333,13.8,1
+537,,gny,Gunya,,,-26.5,146.5,1
+538,,hln,Halang,,,14.5,107.5,1
+539,,har,Haruai,,,-5.08333333333,144.166666667,1
+540,,inu,Iñupiaq,,,67,-161,1
+541,,irm,Irish (Munster),,,52.5,-9,1
+542,,isi,Isirawa,,,-1.83333333333,138.5,1
+543,,jmm,Jamamadi,,,-7.5,-67,1
+545,,kaw,Kaiwá,,,-23,-55,1
+546,,kap,Kela (Apoze),,,-7.41666666667,147.083333333,1
+547,,kkr,Kirikiri,,,-3,137.166666667,1
+548,,kow,Ko (Winye),,,11.8666666667,-2.91666666667,1
+549,,kda,Konda,,,19.5,83,1
+550,,knu,Konua,,,-5.83333333333,154.833333333,1
+551,,ktt,Kott,,,57,94,1
+553,,lla,Lamu-Lamu,,,-14.8333333333,144.5,1
+555,,luy,Luyia,,,0.416666666667,34.5,1
+557,,mrq,Marquesan,,,-8.91666666667,-140.083333333,1
+558,,myo,Mayo,,,26,-108,1
+559,,mhk,Mehek,,,-3.75,142.5,1
+560,,meb,Melayu Betawi,,,-6.5,107,1
+561,,mig,Migama,,,12.1666666667,19.8333333333,1
+562,,mxt,Mixtec (Ayutla),,,16.9166666667,-99.1666666667,1
+563,,liv,Liv,,,56.8333333333,24,1
+564,,mja,Mixtec (Jamiltepec),,,16.25,-97.8333333333,1
+565,,mko,Mokilko,,,11.9166666667,18.0833333333,1
+568,,mrk,Murik,,,-3.83333333333,144.25,1
+569,,nsz,Nahuatl (Sierra de Zacapoaxtla),,,19.5833333333,-97.3333333333,1
+570,,nsy,Neo-Aramaic (Assyrian),,,36,41,1
+571,,ndi,Ngbandi,,,3.75,22,1
+572,,nro,Nharo,,,-22.3333333333,20.5,1
+574,,nub,Nubi,,,0.666666666667,32.0833333333,1
+576,,nyl,Nyelâyu,,,-20.3333333333,164.333333333,1
+577,,ore,Orejón,,,-2.83333333333,-72.5,1
+578,,oto,Oto,,,40.5,-96,1
+579,,ots,Otomí (Sierra),,,20.6666666667,-98.8333333333,1
+580,,otr,Otoro,,,11.1666666667,30.5,1
+581,,pag,Pagu,,,1.25,127.75,1
+583,,plb,Polabian,,,51,12.8333333333,1
+584,,plp,Pulopetak,,,1.41666666667,109.833333333,1
+585,,qta,Quechua (Tarma),,,-11.4166666667,-75.75,1
+586,,rej,Rejang,,,-3.41666666667,102.5,1
+587,,rnr,Romani (North Russian),,,60,38,1
+588,,rmc,Romansch,,,46.6666666667,9.16666666667,1
+589,,rsm,Romansch (Surmeiran),,,46.5833333333,9.75,1
+590,,rcp,Russian-Chinese Pidgin (Birobidjan),,,48.8,132.95,1
+592,,sss,Salish (Samish Straits),,,48.5833333333,-122.583333333,1
+1580,,yaw,Yawa,,,-1.75,136.25,1
+573,,nom,Nomatsiguenga,,,-11.6666666667,-74.5,2
+575,,nng,Nyanga,,,-1.25,28.1666666667,2
+606,,tmm,Tamabo,,,-15.6666666667,167.166666667,1
+607,,tht,Tehit,,,-1.5,132,1
+609,,tew,Tewa (Arizona),,,35.8333333333,-110.416666667,1
+610,,thp,Thaypan,,,-14.8333333333,143.166666667,1
+611,,tse,Timorese,,,-9.66666666667,124.5,1
+617,,wll,Wallisian,,,-13.3,-176.2,1
+618,,wyn,Wayana,,,3.25,-54.1666666667,1
+619,,xer,Xerénte,,,-10,-48.1666666667,1
+620,,xun,!Xun (Ekoka),,,-19.6666666667,18,1
+621,,ykm,Yakoma,,,4.41666666667,18.4166666667,1
+622,,yil,Yil,,,-3.53333333333,142.15,1
+623,,yki,Yuki,,,39.6666666667,-123.5,1
+624,,yna,Yupik (Naukan),,,66,-172,1
+625,,ysi,Yupik (Sirenik),,,64.5,-174,1
+627,,jum,Júma,,,-7.5,-64,1
+628,,abd,Abidji,,,5.66666666667,-4.58333333333,1
+630,,ape,Ampeeli,,,-6.75,146.083333333,1
+631,,ago,Angolar,,,0.25,6.5,1
+632,,apc,Apache (Chiricahua),,,33.25,-108,1
+633,,abe,Arabic (Beirut),,,33.9166666667,35.5,1
+634,,ael,Arabic (Eastern Libyan),,,32,22,1
+635,,arv,Arabic (Negev),,,30.5,34.75,1
+636,,ars,Arabic (San'ani),,,16,44,1
+637,,akr,Arikara,,,45.5,-100.5,1
+638,,awd,Awadhi,,,27.5,81.5,1
+639,,awi,Aekyom,,,-5.75,141.416666667,1
+640,,bhn,Bahinemo,,,-4.58333333333,142.833333333,1
+644,,bna,Banawá,,,-7,-65,1
+646,,bqi,Basque (Basaburua and Imoz),,,43,-1.66666666667,1
+647,,bqb,Basque (Bidasoa Valley),,,43,-3.83333333333,1
+648,,bqg,Basque (Gernica),,,43.3333333333,-3,1
+649,,bqh,Basque (Hondarribia),,,42.5,-3,1
+650,,bql,Basque (Lekeitio),,,43,-2.5,1
+651,,bqn,Basque (Northern High Navarrese),,,43.3333333333,-2.5,1
+652,,bqo,Basque (Oñati),,,42.5,-3.5,1
+653,,bqr,Basque (Roncalese),,,43,-2,1
+654,,bqs,Basque (Sakana),,,42.5,-2,1
+655,,bso,Basque (Souletin),,,43.5,-1.5,1
+656,,bqz,Basque (Zeberio),,,42,-3,1
+658,,bhi,Bhili,,,22,73,1
+659,,bnm,Binumarien,,,-6.28333333333,146.083333333,1
+660,,bgl,Buglere,,,8.5,-81.25,1
+662,,bmr,Burum,,,-6.5,147.333333333,1
+663,,crj,Carijona,,,1,-73,1
+664,,crq,Carrier,,,53.75,-123.5,1
+665,,coi,Chortí,,,14.8333333333,-89.25,1
+666,,cum,Chumburung,,,7.75,0.25,1
+608,,trn,Terêna,,,-20,-56,2
+669,,cup,Cupeño,,,33.1666666667,-116.5,1
+670,,dbd,Dabida,,,-4,38.6666666667,1
+671,,dhu,Dhurga,,,-35.6666666667,150,1
+672,,dou,Doutai,,,-3.33333333333,138.166666667,1
+674,,dym,Dyimini,,,8.41666666667,-4.41666666667,1
+675,,ena,Enga,,,-5.5,143.666666667,1
+676,,ess,Esselen,,,36.25,-121.75,1
+677,,fma,Fula (Mauritanian),,,16.5,-13.75,1
+678,,glp,Gaalpu,,,-12.6666666667,136.75,1
+680,,gor,Gorowa,,,-4.5,36.5,1
+681,,gun,Gunu,,,4.58333333333,11.25,1
+682,,hno,Haida (Northern),,,54,-132.5,1
+683,,hlb,Halbi,,,21,81,1
+684,,hoa,Hoava,,,-8.08333333333,157.5,1
+685,,hok,Min (Southern),,,25,118,1
+687,,iat,Iatmul,,,-4.25,143.25,1
+688,,iql,Inuktitut (Quebec-Labrador),,,62,-73,1
+689,,ins,Inuktitut (Salluit),,,62,-76,1
+690,,ise,Isekiri,,,5.66666666667,5.5,1
+691,,jwr,Jarawara,,,-7.5,-65.5,1
+693,,klp,Kalapuya,,,44.5,-123,1
+694,,kak,Kamano-Kafe,,,-6.25,145.666666667,1
+695,,kmi,Kami,,,-6.75,38,1
+696,,kra,Kara (in Papua New Guinea),,,-2.83333333333,151.116666667,1
+697,,krm,Karaim,,,54.6666666667,24.9166666667,1
+698,,krt,Karata,,,42.5833333333,46.3333333333,1
+699,,ksm,Kasem,,,11.25,-1.25,1
+700,,kaj,Kaure,,,-3.41666666667,140.083333333,1
+701,,kmt,Kemtuik,,,-2.66666666667,140.333333333,1
+702,,ktn,Ketengban,,,-4.5,140.5,1
+703,,kit,Kitsai,,,31.8333333333,-96.5,1
+704,,kkz,Kokni,,,20.75,73.5,1
+705,,kkb,Konkomba,,,10,0.0833333333333,1
+706,,kko,Koranko,,,9.33333333333,-11.25,1
+707,,kpo,Kposo,,,7.5,0.833333333333,1
+708,,lno,Ladino,,,40,33,1
+709,,laf,Lafofa,,,10.25,31.25,1
+710,,lul,Lule,,,-28,-64,1
+712,,mmp,Mampruli,,,10.3333333333,-0.666666666667,1
+713,,mem,Manem,,,-3,140.833333333,1
+714,,mnj,Mantjiltjara,,,-22.6666666667,125.083333333,1
+715,,mav,Maring,,,-5.5,144.666666667,1
+716,,mwa,Martu Wangka,,,-21.5,126,1
+717,,mwc,Mawchi,,,21.3333333333,73.6666666667,1
+718,,myy,Mayi-Yapi,,,-20,141,1
+719,,mbg,Mbugu,,,-4.33333333333,38.1666666667,1
+720,,mta,Mentuh Tapuh,,,1.25,111,1
+721,,mey,Menya,,,-7.25,146,1
+722,,mdu,Mündü,,,4.5,30,1
+723,,naf,Nafaanra,,,8,-2.58333333333,1
+725,,nbe,Ngombe,,,3,23,1
+726,,npi,Nigerian Pidgin,,,6.5,3.33333333333,1
+727,,nin,Ningil,,,-3.5,142.25,1
+728,,nmd,Samo,,,-6.16666666667,142.25,1
+729,,nkr,Nukuoro,,,3.83333333333,154.916666667,1
+730,,nbo,Nyambo,,,-1,31.3333333333,1
+731,,obk,Obokuitai,,,-3,138,1
+732,,ojm,Ojibwe (Minnesota),,,47.6666666667,-92.5,1
+733,,olm,Oloh Mangtangai,,,-0.833333333333,113,1
+735,,ptp,Patpatar,,,-3.76666666667,152.5,1
+736,,pem,Pemon,,,5.33333333333,-62,1
+737,,pdp,Folopa,,,-7,144.5,1
+738,,pkm,Pokomchí,,,15.4166666667,-90.5,1
+739,,qec,Quechua (Ecuadorean),,,-1,-79,1
+740,,ria,Riantana,,,-7.5,138.5,1
+741,,rav,Romani (Ajia Varvara),,,38,23.5833333333,1
+742,,rnd,Rundi,,,-3.5,30,1
+744,,slr,Salar,,,35,103,1
+746,,sru,Selaru,,,-8.2,131,1
+748,,sey,Seychelles Creole,,,-4.75,55.5,1
+749,,ssh,Shinassha,,,10.4166666667,36.1666666667,1
+750,,skr,Sikaritai,,,-2.91666666667,138.25,1
+752,,sto,Stoney,,,53.75,-116.5,1
+753,,sva,Svan,,,43,42.5,1
+754,,tbr,Tabaru,,,1.5,127.25,1
+755,,tns,Tanna (Southwest),,,-19.5666666667,169.333333333,1
+756,,tgw,Tarangan (West),,,-6.5,134.166666667,1
+757,,trt,Ternate,,,0.833333333333,127.25,1
+758,,tis,Tibetan (Shigatse),,,29,89,1
+759,,tif,Tifal,,,-5,141.333333333,1
+760,,til,Tillamook,,,45.3333333333,-123.75,1
+761,,unm,Unami,,,40,-75.1666666667,1
+762,,vas,Vasavi,,,24.5,71.5,1
+763,,wlw,Warluwara,,,-22,138.5,1
+764,,wrp,Waropen,,,-2.33333333333,136.583333333,1
+766,,wer,Weri,,,-7.75,146.916666667,1
+767,,wet,Wetan,,,-8.16666666667,128,1
+768,,wob,Wobe,,,7.41666666667,-7.33333333333,1
+769,,wog,Wogamusin,,,-4.25,142.333333333,1
+770,,wwr,Woiwurrung,,,-37.5,145.5,1
+771,,ykn,Yakan,,,6.5,122,1
+773,,ykp,Yukpa,,,10.1666666667,-72.75,1
+774,,ylb,Yulparija,,,-21,124,1
+775,,ych,Yup'ik (Chevak),,,61.5,-165.75,1
+776,,yun,Yup'ik (Norton Sound),,,64,-161,1
+777,,ysl,Yupik (St. Lawrence Island),,,63.5,-170.5,1
+778,,zte,Zapotec (Texmelucan),,,16.5,-97.1666666667,1
+779,,zim,Zimakani,,,-7.43333333333,141.433333333,1
+780,,agr,Aguaruna,,,-5,-78,1
+781,,ano,Anong,,,27.3333333333,98.75,1
+782,,bdc,Berbice Dutch Creole,,,5.33333333333,-58,1
+783,,bez,Bezhta,,,42.0833333333,46.1666666667,1
+784,,boq,Bokar,,,28.5,94.6666666667,1
+785,,bdk,Budukh,,,41.1666666667,48.4166666667,1
+787,,cyg,Cayuga,,,42.75,-76.75,1
+788,,cvc,Chavacano,,,7,122.083333333,1
+789,,col,Chol,,,17.75,-92.5,1
+790,,cul,Culina,,,-6,-70.5,1
+791,,dri,Dari,,,35,66,1
+792,,dob,Dobel,,,-6.25,134.666666667,1
+793,,dun,Duna,,,-5.5,142.5,1
+794,,eko,Ekoti,,,-16.5,39.5,1
+795,,gdb,Gutob,,,19,83.6666666667,1
+796,,gog,Gogodala,,,-8.08333333333,142.833333333,1
+798,,hwc,Hawaiian Creole,,,21.5,-158,1
+799,,her,Herero,,,-20.5833333333,19,1
+800,,ifm,Ifumu,,,-3.66666666667,15.3333333333,1
+801,,iga,Inga,,,1,-77,1
+803,,kwe,Kanjobal (Western),,,15.8333333333,-91.8333333333,1
+804,,knp,Kanum (Ngkâlmpw),,,-8.66666666667,140.916666667,1
+805,,krq,Kerek,,,62.25,175,1
+806,,ksr,Kisar,,,-8.08333333333,127.116666667,1
+807,,koo,Kola,,,-5.5,134.5,1
+808,,kfc,Kriol (Fitzroy Crossing),,,-18.1666666667,125.583333333,1
+809,,knq,Kriol (Ngukurr),,,-14.8333333333,135,1
+810,,kiu,Kui (in Indonesia),,,-8.43333333333,124.55,1
+811,,kjn,Kunjen,,,-16.5,142.5,1
+812,,kug,Kunming,,,25,102.75,1
+813,,kwr,Kwamera,,,-19.5833333333,169.416666667,1
+814,,lnw,Lonwolwol,,,-16.2166666667,168,1
+815,,lov,Loven,,,15,106.333333333,1
+816,,mlc,Malacca Creole,,,2.2,102.25,1
+817,,mnx,Manx,,,54.1666666667,-4.5,1
+1733,,paa,Pa'a,,,11,9.25,1
+765,,wur,Waurá,,,-13,-53,2
+751,,ssa,Sisaala,,,10.8333333333,-2.66666666667,2
+772,,yzv,Yazva,,,65,55,1
+819,,mcc,Mochica,,,-7.5,-79.3333333333,1
+820,,mop,Mopan,,,16.5833333333,-88.6666666667,1
+821,,ngr,Ngarinyeri,,,-36,140,1
+823,,nyr,Nyangumarda,,,-20,121,1
+824,,oka,Okanagan,,,49.5,-118.5,1
+825,,olu,Olutec,,,17.95,-95,1
+826,,orc,Oroch,,,50.3333333333,137.5,1
+829,,pta,Paita,,,-22.0833333333,166.5,1
+830,,plr,Palor,,,14.8333333333,-16.75,1
+831,,prd,Parji (Dravidian),,,19.5,82.5,1
+832,,puq,Puquina,,,-16.5,-68.5,1
+833,,rim,Rimi,,,-5,34.6666666667,1
+834,,swi,Sawai,,,0.5,128,1
+835,,srr,Serrano,,,34.5,-117,1
+836,,shy,Shira Yughur,,,38,99,1
+837,,skm,Sukuma,,,-2.83333333333,32,1
+838,,slg,Sulung,,,28.3333333333,93.25,1
+839,,sur,Sursurunga,,,-4,152.766666667,1
+840,,tgp,Tanglapui,,,-8.28333333333,125.083333333,1
+841,,tsm,Tasmanian,,,-42.1666666667,146.5,1
+842,,tet,Tetela,,,-4,24,1
+843,,tsn,Tsonga,,,-24,32,1
+844,,tsw,Tswana,,,-24,26,1
+845,,tpr,Tupuri,,,10.1666666667,14.75,1
+846,,tye,Tyeraity,,,-13,130.333333333,1
+847,,uku,Upper Kuskokwim,,,63,-157,1
+848,,yli,Yali,,,-4,139.333333333,1
+849,,ymd,Yamdena,,,-7.5,131.5,1
+850,,yns,Yansi,,,-3.83333333333,18,1
+851,,yaz,Yazgulyam,,,38.5,71.5,1
+852,,zaq,Zapotec (Quiegolani),,,16.1666666667,-96.0833333333,1
+853,,agl,Aghul,,,41.75,47.6666666667,1
+854,,atq,Alutiiq,,,57,-157,1
+855,,apa,Arabic (Palestinian),,,32,35.25,1
+856,,ari,Aribwatsa,,,-6.71666666667,147,1
+857,,asu,Asuriní,,,-3.5,-49.5,1
+858,,atm,Atacameño,,,-23,-69,1
+859,,bwa,Bandjalang (Waalubal),,,-29.0833333333,152.583333333,1
+862,,blu,Bena-Lulua,,,-6,21,1
+863,,bse,Berber (Ayt Seghrouchen Middle Atlas),,,33.3333333333,-4.66666666667,1
+864,,bik,Biak,,,-1,136,1
+865,,big,Binga,,,8,25,1
+866,,bor,Bora,,,-2.16666666667,-72.3333333333,1
+867,,boz,Bozo (Tigemaxo),,,15,-4,1
+868,,crt,Chorote,,,-22.5,-62.5,1
+869,,cua,Cua,,,15.25,108.5,1
+870,,dak,Dakota,,,45,-93.5,1
+871,,emc,Embera Chami,,,5,-76,1
+872,,fio,Fiote,,,-5.5,14,1
+873,,fox,Fox,,,43,-83,1
+874,,grn,Gurenne,,,10.8333333333,-0.916666666667,1
+875,,hwr,Hawrami,,,35.75,45.5,1
+876,,hdi,Hdi,,,11.8666666667,13.7166666667,1
+877,,hmd,Hmong Daw,,,26,105,1
+878,,iha,Iha,,,-2.91666666667,132.25,1
+879,,jrw,Jarawa (in Andamans),,,12,92.5833333333,1
+880,,krl,Karelian,,,64,32,1
+881,,ksh,Kashaya,,,38.6666666667,-123.333333333,1
+882,,klk,Koh (Lakka),,,8,15.5,1
+883,,kuq,Kumyk,,,43,47.3333333333,1
+884,,mmw,Mambwe,,,-9.08333333333,31.1666666667,1
+885,,mzn,Mazanderani,,,36.5,52,1
+886,,mir,Miriwung,,,-15.6666666667,129,1
+887,,mbo,Monumbo,,,-4.25,145,1
+888,,mmo,Mordvin (Moksha),,,54,44,1
+889,,nmi,Nahuatl (Mecayapan Isthmus),,,18.25,-94.8333333333,1
+890,,nvs,Nivkh (South Sakhalin),,,47,142.5,1
+891,,nyh,Nyiha,,,-10,33,1
+892,,occ,Occitan,,,44,2,1
+1734,,pkt,Pokot,,,1.5,35.5,1
+828,,pad,Padoe,,,-2.33333333333,121.333333333,2
+861,,bnw,Baniwa,,,2.66666666667,-66.8333333333,2
+893,,ojs,Ojibwa (Severn),,,53,-90,1
+894,,pap,Papiamentu,,,12.25,-69,1
+895,,pil,Pileni,,,-10.2166666667,166.216666667,1
+896,,pin,Pintupi,,,-23,129,1
+897,,pog,Pogoro,,,-8.75,36.5,1
+898,,pop,Popoloca (Metzontla),,,18.1666666667,-97.5,1
+899,,que,Quechan,,,32.8333333333,-114.333333333,1
+900,,sou,Sorbian (Upper),,,51.8333333333,14.5,1
+901,,spo,Spokane,,,47.6666666667,-117.75,1
+902,,tga,Tangga,,,-3.46666666667,153.2,1
+903,,thd,Thadou,,,24.4166666667,93.9166666667,1
+904,,tgo,Tsogo,,,-1.5,11.3333333333,1
+905,,tua,Tuamotuan,,,-17,-144,1
+906,,yyg,Yaygir,,,-29.6666666667,153,1
+907,,zen,Zenaga,,,17.3333333333,-16,1
+908,,abz,Abaza,,,44,42,1
+909,,amk,Amarakaeri,,,-12.5,-70.5,1
+910,,ami,Amis,,,23.3333333333,121.333333333,1
+911,,atu,Arabic (Tunisian),,,36.75,10.25,1
+912,,atc,Atchin,,,-16,167.333333333,1
+913,,awy,Awyi,,,-2.91666666667,140.583333333,1
+914,,bgs,Baga Sitemu,,,10.5,-14.5,1
+915,,bsi,Berber (Siwa),,,29.1666666667,25.5,1
+917,,bok,Boko,,,10.5,3.5,1
+918,,bro,Broken,,,-10.1666666667,143,1
+919,,bub,Bubi,,,3.5,8.66666666667,1
+920,,cyn,Cheyenne,,,47,-95,1
+921,,crg,Chiriguano,,,-23.6666666667,-64.3333333333,1
+922,,crk,Creek,,,34,-85,1
+923,,dok,Doko,,,3,23.0833333333,1
+924,,frd,Fordata,,,-6.75,131.5,1
+925,,gag,Gagauz,,,46.3333333333,28.6666666667,1
+926,,gil,Gilaki,,,37.3333333333,50,1
+927,,jad,Jad,,,30.8333333333,79,1
+928,,kna,Karitiâna,,,-9.5,-64,1
+929,,kic,Kickapoo,,,42.25,-84,1
+930,,kus,Kusunda,,,28,84.6666666667,1
+931,,kwm,Kwami,,,10.4166666667,11,1
+932,,lng,Lengua,,,-22.5,-59,1
+933,,loz,Lozi,,,-17.8333333333,26,1
+934,,mgh,Magahi,,,23.5,85.5,1
+935,,mkz,Makaa,,,3.41666666667,12.25,1
+936,,mrc,Marchha,,,30.25,79.5833333333,1
+937,,mah,Mari (Hill),,,57,58,1
+938,,mid,Midob,,,15.0833333333,26.25,1
+939,,mii,Miisiirii,,,13.5,22,1
+940,,mcs,Miwok (Central Sierra),,,38,-120.333333333,1
+941,,mwn,Miwok (Northern Sierra),,,38.3333333333,-120.666666667,1
+942,,mxa,Mixtec (Atatlahuca),,,17,-97.75,1
+943,,mpo,Mpongwe,,,-1.25,9.5,1
+944,,nde,Nande,,,-0.0833333333333,29.1666666667,1
+945,,nke,Nkem,,,6.58333333333,8.58333333333,1
+946,,pmc,Pomo (Central),,,39,-123.333333333,1
+947,,qay,Quechua (Ayacucho),,,-14,-74,1
+948,,qch,Quiché,,,15,-91.4166666667,1
+949,,rmb,Rembarnga,,,-12.8333333333,134.583333333,1
+950,,sec,Secoya,,,-0.333333333333,-76,1
+951,,sko,Skou,,,-2.66666666667,140.916666667,1
+952,,tba,Tabare,,,-6.08333333333,145,1
+953,,tmg,Tamagario,,,-6.41666666667,139.25,1
+954,,tan,Tangale,,,9.75,11.3333333333,1
+955,,tem,Tem,,,8.66666666667,0.5,1
+956,,toq,Toqabaqita,,,-8.41666666667,160.583333333,1
+957,,tbb,Tübatulabal,,,36,-118.333333333,1
+958,,tki,Tuki,,,4.58333333333,11.5,1
+959,,tum,Tumleo,,,-3.08333333333,142.416666667,1
+960,,tnb,Tunebo,,,6.75,-72.25,1
+961,,uli,Ulithian,,,9.91666666667,139.583333333,1
+962,,vag,Vagla,,,9.41666666667,-2.41666666667,1
+963,,wlm,Walmatjari,,,-19.5,125.75,1
+964,,wn,Wik Ngathana,,,-13.9166666667,141.5,1
+965,,wnb,Winnebago,,,43.5,-88.5,1
+966,,ynk,Yankuntjatjara,,,-27,132,1
+967,,zsq,Zapotec (San Lucas Quiaviní),,,16.9,-96.4666666667,1
+968,,aba,Abau,,,-4,141.25,1
+973,,bun,Buin,,,-6.75,155.75,1
+974,,cga,Chaga,,,-3,37,1
+975,,chb,Chambri,,,-4.16666666667,143.083333333,1
+976,,chd,Chaudangsi,,,30,80.25,1
+977,,cch,Chocho,,,17.6666666667,-97.4166666667,1
+979,,cuc,Cuica,,,9,-70.5,1
+980,,dma,Duma,,,-0.95,13,1
+981,,fue,Futuna (East),,,-14.3333333333,-178.166666667,1
+983,,foe,Foe,,,-6.5,143.5,1
+984,,hcr,Haitian Creole,,,19,-72.5,1
+985,,jur,Jurchen,,,47,130,1
+986,,ktu,Katu,,,15.8333333333,107.583333333,1
+987,,kei,Kei,,,-5.83333333333,132.916666667,1
+989,,mcr,Mauritian Creole,,,-20.3333333333,57.5,1
+990,,mhu,Mbalanhu,,,-17.5,15,1
+992,,mic,Micmac,,,45,-63,1
+993,,mtg,Montagnais,,,52,-65,1
+994,,mul,Mulao,,,25,108,1
+995,,mse,Munsee,,,41.5,-74.6666666667,1
+996,,nel,Nelemwa,,,-20.25,164.083333333,1
+997,,nto,Ntomba,,,-2,18.3333333333,1
+998,,nus,Nusu,,,26.75,99,1
+999,,oir,Oirat,,,37.5,93,1
+1000,,oix,Otomí (Ixtenco),,,19.0833333333,-97.9166666667,1
+1002,,png,Pangwa,,,-10,34.75,1
+1003,,pmn,Pomo (Northern),,,39.3333333333,-123.5,1
+1004,,qcu,Quechua (Cuzco),,,-14.5,-71,1
+1005,,rik,Rikbaktsa,,,-11.8333333333,-57.5,1
+1006,,rti,Roti,,,-10.6666666667,123.25,1
+1007,,sea,Southeast Ambrym,,,-16.3,168.216666667,1
+1008,,sra,Sranan,,,5.83333333333,-55.3333333333,1
+1009,,sug,Sungor,,,13.75,21.5,1
+1010,,toj,Tojolabal,,,16.3333333333,-91.5,1
+1011,,uru,Uru,,,-16.75,-69,1
+1012,,wtm,Watam,,,-3.91666666667,144.5,1
+1013,,wya,Wyandot,,,44.3333333333,-77.5,1
+1014,,yav,Yavapai,,,34,-113.333333333,1
+1015,,ahu,Aghu,,,-6.16666666667,140.166666667,1
+1016,,ayi,Anyi,,,7,-3.5,1
+1017,,ayr,Ayoreo,,,-20.25,-59.25,1
+1018,,blc,Baluchi,,,28,62,1
+1019,,bsr,Basari,,,12.6666666667,-13,1
+1020,,bch,Berber (Chaouia),,,35,7,1
+1021,,bti,Betoi,,,7.16666666667,-71.25,1
+1022,,bhu,Bhumij,,,21.3333333333,86.5,1
+1023,,bol,Bolia,,,-1.25,18.3333333333,1
+1024,,boj,Bori,,,28.3333333333,94.75,1
+1025,,csh,Cashinahua,,,-10.5,-71.8333333333,1
+1026,,cuu,Chuukese,,,7.33333333333,151.75,1
+1027,,des,Desano,,,0.833333333333,-69.8333333333,1
+1028,,dhw,Dharawal,,,-34.5,150.5,1
+1029,,dhb,Dharumbal,,,-22.75,150.5,1
+1030,,ebi,Ebira,,,8.16666666667,7,1
+1031,,gdi,Godié,,,5.41666666667,-5.83333333333,1
+1032,,joh,Johari,,,30.6666666667,80,1
+1033,,kbo,Kambot,,,-4.25,144.133333333,1
+1034,,kbu,Kanembu,,,14,15,1
+1035,,knb,Kanum (Bädi),,,-8.83333333333,140.75,1
+1036,,kti,"Kati (in West Papua, Indonesia)",,,-5.75,140.916666667,1
+1037,,kaz,Kazakh,,,50,70,1
+1038,,kgi,Konyagi,,,12.5,-13.25,1
+1040,,mkd,Makonde,,,-11,40,1
+1041,,mrr,Maringarr,,,-14.25,130,1
+1042,,mom,Mombum,,,-8.25,138.75,1
+1043,,mni,Moni,,,-3.66666666667,137,1
+1044,,mud,Mundani,,,5.66666666667,9.91666666667,1
+1047,,nau,Nauruan,,,-0.5,166.916666667,1
+1049,,saa,Sa'a,,,-9.61666666667,161.45,1
+1050,,sgl,Sengele,,,-1.83333333333,17.3333333333,1
+1051,,sil,Sila,,,12.3333333333,21.75,1
+1052,,tal,Talinga,,,0.416666666667,29.6666666667,1
+1054,,tup,Tupi,,,-6,-36,1
+1055,,wrb,Warrnambool,,,-38.25,142.5,1
+1056,,yao,Yao (in Malawi),,,-14.5,35.5,1
+1057,,yei,Yei,,,-7.91666666667,140.916666667,1
+1058,,ylm,Yelmek,,,-7.66666666667,139.166666667,1
+1059,,zqo,Zoque (Ostuacan),,,17.4166666667,-93.3,1
+1060,,agu,Aguacatec,,,15.4166666667,-91.3333333333,1
+1061,,als,Alsea,,,44.6666666667,-123.916666667,1
+1062,,ayo,Ayomán,,,11,-69,1
+1063,,bgn,Bugun,,,27.5,92.5833333333,1
+1065,,cjo,Chichimeca-Jonaz,,,21.6666666667,-100.5,1
+1066,,cln,Cholón,,,-8,-77.5,1
+1067,,cri,Crimean Tatar,,,45,34.0833333333,1
+1068,,edo,Edolo,,,-6.16666666667,142.666666667,1
+1069,,esm,Esmeraldeño,,,0.333333333333,-79.8333333333,1
+1070,,hem,Hemba,,,-6.25,27.1666666667,1
+1071,,hol,Holoholo,,,-5.16666666667,29.9166666667,1
+1072,,jbt,Jabutí,,,-12.25,-62.25,1
+1073,,jin,Jino,,,22,101,1
+1074,,jug,Jugli,,,27.5,96.3333333333,1
+1075,,kll,Kaluli,,,-6.5,142.75,1
+1076,,krj,Karadjeri,,,-19,122,1
+1077,,kkw,Karankawa,,,28,-97,1
+1078,,khi,Khinalug,,,41.1666666667,48.0833333333,1
+1079,,kie,Kire,,,-4.25,144.75,1
+1080,,kui,Kui (in India),,,20,83.5,1
+1081,,lmb,Lamba,,,-13,28,1
+1082,,mda,Mada (in Cameroon),,,10.8333333333,14.1666666667,1
+1083,,mgi,Magi,,,-10.3333333333,149.333333333,1
+1084,,mrs,Mairasi,,,-3.5,134,1
+1085,,mkl,Maklew,,,-7.66666666667,139.416666667,1
+1086,,mto,Malto,,,25,87.3333333333,1
+1087,,mbl,Mbole,,,-0.666666666667,24.6666666667,1
+1088,,moj,Mojave,,,34.6666666667,-114.583333333,1
+1089,,oks,Oksapmin,,,-5.16666666667,142.166666667,1
+1090,,ono,Ono,,,-6.16666666667,147.583333333,1
+1091,,rga,Ronga,,,-26,32.5,1
+1092,,rru,Runyoro-Rutooro,,,1.5,31.3333333333,1
+1094,,spi,Spitian,,,32.25,78,1
+1095,,tho,Thompson,,,49.75,-121.75,1
+1096,,wag,Wagiman,,,-14,131.25,1
+1097,,yqy,Yaqay,,,-6.58333333333,139.25,1
+1098,,zpr,Zaparo,,,-2,-76.3333333333,1
+1099,,aja,Aja,,,7.33333333333,25.6666666667,1
+1100,,ama,Amara,,,-5.66666666667,148.5,1
+1101,,aab,Arapesh (Abu),,,-3.45,142.95,1
+1102,,bnk,Bankon,,,4.41666666667,9.58333333333,1
+1103,,bia,Bila,,,1,28.75,1
+1104,,boa,Boazi,,,-7,141.333333333,1
+1105,,bui,Buli (in Indonesia),,,1,128.5,1
+1106,,ctw,Catawba,,,35.5,-80.5,1
+1107,,cho,Chontal (Highland),,,16.25,-95.75,1
+1108,,cve,Chuave,,,-6.11666666667,145.116666667,1
+1109,,chj,Chuj,,,15.9166666667,-91.5833333333,1
+1110,,cin,Chumash (Ineseño),,,34.6666666667,-120.25,1
+1111,,deu,Deuri,,,26,90.25,1
+1112,,dhi,Dhivehi,,,4.16666666667,73.5,1
+1113,,far,Faroese,,,62,-7,1
+1114,,gwo,Gworok,,,9.91666666667,8.16666666667,1
+1115,,han,Hani,,,23,103,1
+1116,,heh,Hehe,,,-8,36,1
+1117,,hmu,Huitoto (Muinane),,,-2.41666666667,-71,1
+1118,,kbt,Kabatei,,,36.75,49.4166666667,1
+1119,,kmw,Kamu,,,-13.5833333333,130.833333333,1
+1120,,kod,Kodava,,,12.1666666667,76.8333333333,1
+1125,,kwb,Kwerba,,,-2.25,138.5,1
+1126,,leb,Lebeo,,,1.75,25,1
+1127,,luc,Lucazi,,,-14,20,1
+1129,,mdk,Mandinka,,,13,-15.6666666667,1
+1130,,msh,Marshallese,,,7.11666666667,171.05,1
+1131,,mbe,Mbere,,,-0.5,14,1
+1132,,mnv,Minaveha,,,-9.6,150.466666667,1
+1133,,mkh,Mongol (Khamnigan),,,49,117,1
+1135,,nbk,Natügu,,,-10.7833333333,165.866666667,1
+1136,,nnd,Nend,,,-5,144.916666667,1
+1137,,one,One,,,-3.25,141.916666667,1
+1138,,ord,Ordos,,,39,109,1
+1139,,put,Paiute (Southern),,,37.8333333333,-113.333333333,1
+1140,,pis,Pisa,,,-5.16666666667,139.166666667,1
+1141,,rao,Rao,,,-4.75,144.5,1
+1142,,smt,Sahaptin (Umatilla),,,45.6666666667,-118.5,1
+1143,,skw,Shekhawati,,,28,75.5,1
+1144,,tls,Talysh (Southern),,,37,49,1
+1146,,tts,Tati (Southern),,,36,49.6666666667,1
+1147,,tni,Tinani,,,32.3333333333,77.1666666667,1
+1148,,tsz,Tsez,,,42.25,45.75,1
+1149,,tai,Tuareg (Air),,,19,9,1
+1150,,wor,Worora,,,-15.6666666667,124.666666667,1
+1151,,yi,Nuosu,,,28.0,103.0,1
+1152,,yir,Yir Yoront,,,-14.8333333333,141.833333333,1
+1153,,ach,Aché,,,-25.25,-55.1666666667,1
+1154,,aiz,Aizi,,,5.25,-4.5,1
+2458,,ket,Ket,,,64,87,1
+1155,,ayw,Ayiwo,,,-10.3333333333,166.25,1
+1156,,bfi,Bafia,,,5,11.1666666667,1
+1157,,baf,Bafut,,,6.25,9.91666666667,1
+1158,,blz,Balanta,,,12.25,-15.3333333333,1
+1160,,brb,Bariba,,,10,2.5,1
+1161,,bkt,Brokskat,,,35.3333333333,76.5,1
+1162,,bnu,Bularnu,,,-21,138,1
+1163,,chy,Chayahuita,,,-5.5,-77,1
+1164,,coe,Coeur d'Alene,,,47.25,-116.5,1
+1165,,cui,Cuiba,,,6.5,-70,1
+1166,,dul,Dulong,,,28,98.3333333333,1
+1167,,emm,Emmi,,,-13.5,130,1
+1168,,gnd,Ga'anda,,,10.3333333333,12.5833333333,1
+1169,,gll,Galela,,,2.41666666667,128.333333333,1
+1170,,guh,Guhu-Samane,,,-8,147.333333333,1
+1171,,ido,Idoma,,,6.91666666667,7.5,1
+1172,,idu,Idu,,,29.3333333333,95.8333333333,1
+1173,,ixi,Ixil,,,15.5,-91,1
+1174,,kby,Kabiyé,,,9.66666666667,1.16666666667,1
+1176,,kmr,Kamoro,,,-4.33333333333,136,1
+1177,,kyp,Kayapó,,,-9,-52,1
+1178,,khw,Khowar,,,36,72,1
+1179,,koh,Kohumono,,,6,8.11666666667,1
+1180,,kyn,Koyukon,,,65,-155,1
+1181,,kji,Kurmanji,,,38,42,1
+1182,,lgi,Langi,,,-4.5,36,1
+1183,,lrk,Larike,,,-3.75,127.916666667,1
+1185,,lho,Lhomi,,,27.6666666667,87.4166666667,1
+1186,,lun,Lungchang,,,27.5,96.4166666667,1
+1187,,ma,Ma,,,3.5,28,1
+1190,,mke,Mekeo,,,-8.33333333333,146.5,1
+1191,,mxm,Mixtec (Molinos),,,17,-97.5833333333,1
+1192,,muu,Mundurukú,,,-7,-58,1
+1193,,ngj,Ngadjumaja,,,-32.3333333333,123.833333333,1
+1194,,ngu,Nguna,,,-16.9166666667,168.5,1
+1195,,nyk,Nyamkad,,,32,78.5,1
+1196,,ory,Orya,,,-2.75,139.833333333,1
+1197,,ptw,Patwin,,,39,-122.333333333,1
+1122,,kjo,Konjo,,,-5.46666666667,120.333333333,2
+1134,,mri,Moraori,,,-8.58333333333,140.666666667,2
+1188,,mch,Machiguenga,,,-12,-72.6666666667,2
+1184,,leg,Lega,,,-2.83333333333,27.1666666667,2
+1201,,svk,Slovak,,,49,20,1
+1202,,tap,Taiap,,,-4.08333333333,144.5,1
+1203,,tks,Teke (Southern),,,-2.33333333333,14.5,1
+1204,,tiv,Tiv,,,7.5,9,1
+1205,,tsa,Tsakhur,,,41.6666666667,47.1666666667,1
+1206,,wdo,Western Desert (Ooldea),,,-30.5,132,1
+1207,,wir,Wirangu,,,-32,134,1
+1208,,wom,Womo,,,-2.91666666667,141.833333333,1
+1210,,ald,Alladian,,,5.16666666667,-4.33333333333,1
+1212,,bac,Bachamal,,,-13.1666666667,130.166666667,1
+1213,,bgv,Bagvalal,,,42.5833333333,46.1666666667,1
+1214,,bki,Bakairí,,,-14,-55,1
+1215,,brd,Bardi,,,-16.5833333333,122.916666667,1
+1216,,bee,Beembe,,,-3.91666666667,14.0833333333,1
+1217,,biu,Bisu,,,19.75,100,1
+1218,,bob,Bobangi,,,-1.33333333333,17.3333333333,1
+1220,,brw,Bru (Western),,,16.75,104.75,1
+1221,,cad,Caddo,,,33.3333333333,-93.5,1
+1222,,cqt,Chiquitano,,,-17.5,-60,1
+1223,,coa,Coahuilteco,,,28,-100,1
+1224,,dad,Dadibi,,,-6.55,144.583333333,1
+1225,,ddf,Daju (Dar Fur),,,12.25,25.25,1
+1226,,dnw,Dangaléat (Western),,,12.1666666667,18.3333333333,1
+1227,,dar,Darai,,,24,84,1
+1228,,det,Deti,,,-20.5,24.5,1
+1229,,dts,Toro So,,,14.4166666667,-3.25,1
+1230,,ega,Ega,,,5.5,-5.5,1
+1231,,fuz,Fuzhou,,,26,119.5,1
+1232,,gla,Gelao,,,22.9166666667,105.5,1
+1233,,gol,Gola,,,7.25,-10.8333333333,1
+1234,,gto,Guató,,,-17,-58,1
+1235,,had,Hadza,,,-3.75,35.1666666667,1
+1236,,hba,Hebrew (Modern Ashkenazic),,,31.75,35.1666666667,1
+1237,,ird,Irish (Donegal),,,55,-8,1
+1238,,iso,Isoko,,,5.5,6.25,1
+1240,,jpr,Japreria,,,10.5,-73,1
+1241,,jom,Jomang,,,10.5833333333,30.5,1
+1209,,wuc,Wu,,,31.6666666667,119.916666667,1
+1243,,kyr,Karkar-Yuri,,,-3.75,141.083333333,1
+1244,,ktc,Katcha,,,10.8333333333,29.6666666667,1
+1245,,ked,Kedang,,,-8.25,123.75,1
+1246,,kga,Kinga,,,-9,34,1
+1247,,kss,Kisi (Southern),,,8.5,-10.25,1
+1248,,kpa,Kpan,,,7.58333333333,10.1666666667,1
+1250,,lkk,Lakkia,,,24.0833333333,110.166666667,1
+1251,,lam,Lamé,,,9,14.5,1
+1252,,laz,Laz,,,41.5,41.5,1
+1253,,lua,Lua,,,9.75,17.75,1
+1254,,mya,Ma'ya,,,-1.25,130.916666667,1
+1256,,mgk,Mungaka,,,5.91666666667,10,1
+1257,,nal,Nalik,,,-2.95,151.333333333,1
+1258,,nne,Nengone,,,-21.5,168,1
+1259,,nkt,Nyah Kur (Tha Pong),,,15.6666666667,101.666666667,1
+1260,,nyg,Nyangi,,,3.41666666667,33.5833333333,1
+1261,,ogb,Ogbia,,,4.66666666667,6.25,1
+1262,,puk,Parauk,,,23.25,99.5,1
+1263,,phl,Phlong,,,15,99,1
+1264,,poa,Po-Ai,,,-20.6666666667,164.833333333,1
+1265,,psj,Popoloca (San Juan Atzingo),,,18.1666666667,-96.4166666667,1
+1266,,pun,Pungupungu,,,-13.5,130.416666667,1
+1267,,rwa,Rawa,,,-5.83333333333,146,1
+1268,,rka,Romani (Kalderash),,,45,21,1
+1269,,rsc,Romansch (Scharans),,,46.75,9.5,1
+1270,,rtk,Rotokas,,,-6,155.166666667,1
+1271,,scs,Saami (Central-South),,,64.6666666667,16.75,1
+1272,,svs,Savosavo,,,-9.13333333333,159.8,1
+1273,,sme,Seme,,,11,-4.91666666667,1
+1198,,sab,Sa'ban,,,3.66666666667,115.666666667,2
+1255,,mua,Makua,,,-15,38.6666666667,2
+1280,,tza,Tzeltal (Aguacatenango),,,16.4166666667,-92.5,1
+1282,,umb,UMbundu,,,-12.5,15,1
+1283,,ven,Venda,,,-22,30,1
+1284,,wai,Wai Wai,,,1,-59,1
+1285,,wnt,Wantoat,,,-6.16666666667,146.5,1
+1288,,zaz,Zazaki,,,39,41,1
+1289,,acn,Achang,,,25,98.5,1
+1291,,akw,Akawaio,,,6,-59.5,1
+1292,,aea,Aleut (Eastern),,,54.75,-164,1
+1293,,amx,Anamuxra,,,-4.66666666667,145,1
+1295,,bas,Basaá,,,3.91666666667,10.5,1
+1296,,bem,Bemba,,,-10,28.25,1
+1297,,bon,Bongu,,,-5.5,145.916666667,1
+1299,,cap,Capanahua,,,-7,-74,1
+1301,,daw,Dâw,,,-0.25,-67.0833333333,1
+1302,,day,Day,,,8.75,17.8333333333,1
+1303,,djn,Djinang,,,-12.3333333333,134.833333333,1
+1304,,fef,Fe'fe',,,5.25,10.1666666667,1
+1305,,fon,Fongbe,,,6.41666666667,2.16666666667,1
+1306,,hhu,Hanga Hundi,,,-3.83333333333,142.916666667,1
+1307,,itz,Itzaj,,,17,-89.8333333333,1
+1308,,jel,Jeli,,,9.5,-5.66666666667,1
+1310,,kef,Kefa,,,7.25,36.25,1
+1311,,kil,Kiluba,,,-8,26,1
+1312,,ktk,Kotoko,,,11.3333333333,15.3333333333,1
+1313,,lu,Lü,,,22,100.666666667,1
+1315,,mtb,Matuumbi,,,-8.5,39,1
+1316,,mus,Mussau,,,-1.45,149.616666667,1
+1317,,nah,Nahali,,,19.75,77.8333333333,1
+1318,,nap,Neo-Aramaic (Persian Azerbaijan),,,38,47,1
+1319,,ngg,Ngan'gityemerri,,,-14.25,130.416666667,1
+1320,,ngw,Ngawun,,,-19,141.5,1
+1322,,nse,Nsenga,,,-14.5,30.8333333333,1
+1323,,nyn,Nyigina,,,-18,124.333333333,1
+1324,,omh,Omaha,,,42,-97.25,1
+1325,,orm,Ormuri,,,32.5,69.75,1
+1326,,pam,Pame,,,22,-99.5,1
+1327,,rsu,Romansch (Sursilvan),,,46.6666666667,8.83333333333,1
+1328,,ron,Ron,,,9,8.75,1
+1329,,snd,Senadi,,,9.5,-6.25,1
+1330,,shb,Shabo,,,7.58333333333,35.4166666667,1
+1331,,snn,Soninke,,,15,-10.5,1
+1332,,tik,Tikar,,,5.83333333333,11.6666666667,1
+1333,,wrs,Waris,,,-3.16666666667,141,1
+1334,,wth,Wathawurrung,,,-38,144,1
+1335,,wau,Waunana,,,4,-77,1
+1336,,xam,/Xam,,,-31,21,1
+1337,,xav,Xavánte,,,-15,-52.5,1
+1338,,xok,Xokleng,,,-24.5,-50,1
+1339,,yam,Yaminahua,,,-8,-73,1
+1340,,adn,Adynyamathanha,,,-30.5,139.5,1
+1341,,ann,Anindilyakwa,,,-14,136.5,1
+1342,,bbl,Babole,,,1.08333333333,17.25,1
+1343,,bku,Bakueri,,,4.25,9.25,1
+1344,,byu,Bandjalang (Yugumbir),,,-27.9166666667,153,1
+1345,,bbu,Barambu,,,3.5,27,1
+1347,,bry,Baruya,,,-6.91666666667,145.916666667,1
+1348,,bis,Bisa,,,11.5,-0.5,1
+1349,,cac,Cacua,,,1.08333333333,-70,1
+1314,,mag,Magar,,,28,83,2
+1286,,wps,Wapishana,,,2.66666666667,-60,2
+1290,,aik,Aikaná,,,-12.6666666667,-60.6666666667,2
+1321,,ngb,Ngbaka (Minagende),,,3.5,20,2
+1352,,gaa,Gaagudju,,,-12.5833333333,132.833333333,1
+1353,,ige,Igede,,,7,8.16666666667,1
+1354,,iwm,Iwam,,,-4.33333333333,142,1
+1355,,jeh,Jeh,,,15.1666666667,107.833333333,1
+1356,,kek,K'ekchí,,,16,-89.8333333333,1
+1357,,kac,Kachari,,,26.5,91,1
+1358,,kae,Kaki Ae,,,-8,145.833333333,1
+1359,,kte,Kete,,,-7,22.8333333333,1
+1360,,kul,Kullo,,,6.75,37.0833333333,1
+1361,,kyq,Kyuquot,,,50.1666666667,-127.166666667,1
+1362,,mkg,Mandinka (Gambian),,,13.4166666667,-16,1
+1363,,max,Maxakalí,,,-18,-40,1
+1365,,mtp,Mixe (Totontepec),,,17.25,-96,1
+1366,,msm,Musom,,,-6.58333333333,147,1
+1367,,nya,Nyawaygi,,,-19,146.166666667,1
+1368,,ras,Rashad,,,11.8333333333,31.05,1
+1369,,sob,Sobei,,,-1.91666666667,138.75,1
+1370,,srb,Sorbian,,,51.5,14,1
+1372,,trm,Tirmaga,,,5.75,35.25,1
+1373,,toa,Toaripi,,,-8.33333333333,146.25,1
+1374,,tke,Tokelauan,,,-9,-172,1
+1375,,toz,Tonga (in Zambia),,,-17,27,1
+1376,,trw,Torwali,,,34.25,72,1
+1377,,wed,Wedau,,,-10.1666666667,150.166666667,1
+1378,,ywr,Yawuru,,,-18,122.5,1
+1379,,yey,Yeyi,,,-20,23.5,1
+1380,,afr,Afrikaans,,,-31,22,1
+1381,,agh,Aghem,,,6.66666666667,10,1
+1382,,aht,Ahtna,,,62,-145,1
+1383,,ble,Baule,,,7,-5,1
+1384,,bni,Bini,,,6.41666666667,5.83333333333,1
+1385,,bnb,Bunuba,,,-17.75,125.75,1
+1387,,cld,Chaldean (Modern),,,36,43,1
+1388,,deg,Degema,,,4.75,6.75,1
+1389,,dgo,Dongo,,,3,30,1
+1390,,dmk,Domaaki,,,36.1666666667,74,1
+1391,,eya,Eyak,,,60.5,-145,1
+1392,,gnn,Gunin,,,-14.25,126.666666667,1
+1393,,grg,Gurr-goni,,,-12.25,134.416666667,1
+1394,,hei,Heiltsuk,,,52,-127.5,1
+1395,,isa,I'saka,,,-2.83333333333,141.283333333,1
+1396,,jia,Jiarong,,,31.5,102,1
+1397,,kly,Kala Lagaw Ya,,,-10.1166666667,142.116666667,1
+1398,,kba,Kamba,,,-1.5,38,1
+1399,,khk,Khakas,,,53,90,1
+1400,,knw,Konkow,,,39.5,-121.5,1
+1401,,kot,Kota,,,11.5,77.1666666667,1
+1402,,kuu,Kuuku Ya'u,,,-12.5833333333,143.083333333,1
+1403,,ldo,Londo,,,5,9.16666666667,1
+1404,,lus,Lushootseed,,,48,-122,1
+1405,,mle,Maale,,,6,36.9166666667,1
+1406,,msk,Masakin,,,10.6666666667,30,1
+1407,,mtt,Massachusett,,,42.5,-71,1
+1408,,mzh,Mazatec (Huautla),,,18.25,-96.8333333333,1
+1409,,mki,Mikasuki,,,32,-85,1
+1410,,mof,Mofu-Gudur,,,10.5,14,1
+1411,,mgo,Mongo,,,0,21,1
+1412,,mdg,Mundang,,,9.66666666667,14.5,1
+1413,,nnk,Nankina,,,-5.78333333333,146.45,1
+1414,,nkb,Ngalkbun,,,-13.5,134.833333333,1
+1415,,nob,Nobiin,,,21,31,1
+1416,,pac,Pacoh,,,16.4166666667,107.083333333,1
+1419,,qco,Quechua (Cochabamba),,,-17.5,-66,1
+1420,,ror,Roro,,,-8.75,146.583333333,1
+1421,,sle,Samba Leko,,,8.5,12.5,1
+1422,,sav,Savi,,,35,71.5,1
+1423,,soq,Soqotri,,,12.5,54,1
+1424,,stn,Sotho (Northern),,,-24,29,1
+1425,,tbw,Tabwa,,,-8,29.5,1
+1426,,taf,Taiof,,,-5.53333333333,154.633333333,1
+1364,,mdo,Mbodomo,,,4.5,15.5,2
+1432,,vaf,Vafsi,,,34.6666666667,49.9166666667,1
+1433,,wan,Wangkumara,,,-27.3333333333,143,1
+1434,,yah,Yahgan,,,-55,-68,1
+1436,,ady,Adyghe (Abzakh),,,45.2333333333,40.5833333333,1
+1437,,all,Ala'ala,,,-8.91666666667,146.75,1
+1438,,ant,Angaataha,,,-7.21666666667,146.25,1
+1439,,awe,Arrernte (Western),,,-24,132.5,1
+1442,,bid,Bidiya,,,11.9166666667,18.75,1
+1443,,bin,Binandere,,,-8.25,148,1
+1444,,cck,Chickasaw,,,34,-88,1
+1445,,cof,Cofán,,,0.166666666667,-77.1666666667,1
+1446,,cmx,Comox,,,50.1666666667,-125,1
+1448,,dhr,Dhargari,,,-23.75,114.916666667,1
+1449,,dms,Dimasa,,,25.5,93,1
+1450,,dja,Djabugay,,,-16.75,145.583333333,1
+1451,,dua,Duala,,,4,9.41666666667,1
+1452,,eja,Ejagham,,,5.41666666667,8.66666666667,1
+1454,,ghb,Guahibo,,,5,-69,1
+1455,,ggu,Gureng Gureng,,,-25.25,151,1
+1456,,kal,Kalami,,,35.5,72.5,1
+1457,,kpw,Karen (Pwo),,,13,99.1666666667,1
+1458,,kat,Kâte,,,-6.5,147.75,1
+1459,,kkn,Konkani,,,15.25,74,1
+1460,,kmn,Kuman,,,-5.91666666667,145,1
+1461,,kum,Kumauni,,,30,80,1
+1462,,kur,Kurukh,,,22.8333333333,85.5,1
+1463,,lac,Lacandón,,,17,-91.5,1
+1464,,lew,Lewo,,,-16.75,168.333333333,1
+1465,,lou,Lou,,,-2.38333333333,147.316666667,1
+1467,,mrh,Marrithiyel,,,-13.8333333333,130,1
+1468,,myr,Matsés,,,-5.41666666667,-73.25,1
+1469,,msc,Muisca,,,5,-74,1
+1470,,mur,Mursi,,,5.58333333333,36.0833333333,1
+1471,,nze,Naga (Zeme),,,25.1666666667,93.5,1
+1472,,nat,Natchez,,,31.75,-91.3333333333,1
+1473,,ndu,Ndumu,,,-1.66666666667,13.5833333333,1
+1474,,neh,Nehan,,,-4.5,154.2,1
+1475,,nog,Noghay,,,44,46,1
+1476,,nku,Nubian (Kunuz),,,23,33,1
+1418,,pnu,Bunu (Younuo),,,24,107,1
+1477,,pod,Podoko,,,11,14.0833333333,1
+1478,,sgu,Sangu,,,-1.5,11.8333333333,1
+1479,,smn,Seminole,,,33,-84,1
+1480,,sha,Shan,,,22,98,1
+1481,,sht,Shatt,,,10.8333333333,30,1
+1482,,she,Sherpa,,,27.75,86.8333333333,1
+1483,,sir,Siar,,,-4.66666666667,152.916666667,1
+1484,,sud,Sudest,,,-11.5,153.45,1
+1485,,trr,Tairora,,,-6.5,146,1
+1486,,tao,Tarao,,,24.25,94.1666666667,1
+1488,,tig,Tigrinya,,,14.5,38.5,1
+1490,,tbt,Tobati,,,-2.58333333333,140.666666667,1
+1491,,tgn,Tugun,,,-7.71666666667,126.75,1
+1492,,uzn,Uzbek (Northern),,,40.6666666667,66.5,1
+1493,,vot,Votic,,,59.5,30,1
+1494,,adz,Adzera,,,-6.25,146.25,1
+1495,,amz,Amuzgo,,,16.8333333333,-98,1
+1496,,avo,Avokaya,,,4.66666666667,30,1
+1497,,azi,Azari (Iranian),,,37.5,47,1
+1498,,bus,Busa,,,9.66666666667,4,1
+1499,,cas,Cashibo,,,-8.5,-75.5,1
+1500,,cav,Cavineña,,,-13.3333333333,-66.5,1
+1501,,cil,CiLuba,,,-6,22,1
+1427,,thu,Thulung,,,27.4166666667,86.5,2
+1505,,gmb,Guambiano,,,2.5,-76.6666666667,1
+1506,,gnb,Gunbalang,,,-12,134,1
+1507,,iwa,Iwaidja,,,-11.5,132.666666667,1
+1508,,jar,Jarawa (in Nigeria),,,9.5,10.5,1
+1510,,kel,Kele,,,-2.08333333333,147.083333333,1
+1511,,ksa,Keresan (Santa Ana),,,35.4166666667,-106.666666667,1
+1512,,kir,Kirma,,,10.25,-4.83333333333,1
+1513,,lml,Limilngan,,,-12.5,131.916666667,1
+1514,,myn,Ma'anyan,,,-2,115,1
+1515,,mmv,Mamvu,,,3.25,29,1
+1516,,maz,Mazahua,,,19.4166666667,-99.9166666667,1
+1517,,mek,Mekens,,,-12.5,-61.5,1
+1518,,mer,Meryam Mir,,,-9.91666666667,144.083333333,1
+1519,,mpu,Mpur,,,-0.75,133.25,1
+1520,,nax,Naxi,,,27.5,100,1
+1521,,omi,Ömie,,,-9.05,148.083333333,1
+1522,,ong,Onge,,,10.75,92.4166666667,1
+1523,,ori,Orig,,,12.1666666667,30.8333333333,1
+1524,,pnr,Panare,,,6.5,-66,1
+1525,,pum,Pumi,,,28,101,1
+1526,,sta,Santa,,,31.5,107.5,1
+1527,,sap,Sapuan,,,15.1666666667,106.833333333,1
+1528,,sia,Siane,,,-6.08333333333,145.2,1
+1529,,sdh,Sindhi,,,26,69,1
+1530,,sgb,Sougb,,,-1.5,134,1
+1531,,sus,Susu,,,10,-13,1
+1532,,swt,Swati,,,-26.5,31,1
+1533,,thy,Kuuk Thaayorre,,,-14.5833333333,141.833333333,1
+1534,,tmc,Timucua,,,30.25,-82.5,1
+1535,,tpa,Totonac (Papantla),,,20.3333333333,-97.3333333333,1
+1536,,wrm,Warembori,,,-1.66666666667,137.583333333,1
+1537,,bvi,Bali-Vitu,,,-4.9,149.116666667,1
+1538,,bzi,Bauzi,,,-2.5,137.5,1
+1539,,bet,Bété,,,6.25,-6.25,1
+1540,,chx,Chontal (Huamelultec Oaxaca),,,16,-95.75,1
+1541,,cro,Crow,,,47,-108,1
+1542,,drm,Darma,,,30,79.75,1
+1543,,dim,Dime,,,6.16666666667,36.25,1
+1544,,ene,Enets,,,67.5,86.5,1
+1545,,gam,Gamo,,,6.66666666667,37.25,1
+1546,,gap,Gapapaiwa,,,-9.75,149.833333333,1
+1548,,gel,Gela,,,-9.08333333333,160.25,1
+1549,,git,Gitksan,,,55.3333333333,-127.75,1
+1551,,iau,Iau,,,-3.16666666667,137.5,1
+1552,,ken,Kenga,,,12,18,1
+1553,,kje,Koreguaje,,,1,-75.5,1
+1554,,lmh,Lamaholot,,,-8.25,122.916666667,1
+1555,,mts,Matis,,,-4.41666666667,-70.25,1
+1556,,mbi,Mbili,,,6.11666666667,10.2,1
+1502,,dha,Dhaasanac,,,4.66666666667,36.3333333333,1
+1557,,mco,Mixe (Coatlán),,,16.9166666667,-95.6666666667,1
+1558,,mov,Movima,,,-13.8333333333,-65.6666666667,1
+1559,,nad,Nadëb,,,-1,-66.5,1
+1560,,nag,Nagatman,,,-3.75,141.5,1
+1561,,nim,Nimboran,,,-2.5,140.166666667,1
+1562,,nsn,Nisenan,,,39,-121,1
+1563,,nza,Nzakara,,,5,23,1
+1564,,oya,Oriya,,,21,85,1
+1565,,osa,Osage,,,37,-94,1
+1566,,plg,Palaung,,,22.6666666667,96.6666666667,1
+1567,,pre,Pare,,,-4,36.5,1
+1568,,pat,Patep,,,-6.91666666667,146.583333333,1
+1569,,rov,Roviana,,,-8.25,157.333333333,1
+1570,,stl,Santali,,,24.5,87,1
+1571,,teh,Tehuelche,,,-48,-68,1
+1572,,tny,Tenyer,,,10.6666666667,-4.5,1
+1573,,tgl,Tshangla,,,27.8333333333,92.1666666667,1
+1574,,tte,Tutelo,,,37.6666666667,-78.75,1
+1575,,tuy,Tuyuca,,,0.5,-70.0833333333,1
+1576,,udi,Udi,,,41,48,1
+1577,,usr,Usarufa,,,-6.41666666667,145.583333333,1
+1578,,yal,Yale (Kosarek),,,-4.08333333333,139.5,1
+1579,,yan,Yana,,,40.5,-122,1
+1547,,gbk,Gbaya (Northwest),,,6,15,2
+1583,,apw,Apache (Western),,,33.75,-110,1
+1584,,ams,Arabic (Modern Standard),,,25,42,1
+1585,,awa,Awa,,,-6.66666666667,145.75,1
+1586,,blt,Balti,,,35,76,1
+1587,,bnn,Banoni,,,-6.41666666667,155.25,1
+1588,,bsh,Bushoong,,,-4.5,21.5,1
+1589,,can,Candoshi,,,-4.16666666667,-77,1
+1590,,cku,Chinook (Upper),,,45.62,-121.16,1
+1592,,dom,Domari,,,32,35,1
+1593,,gah,Gahuku,,,-6,145.416666667,1
+1594,,gug,Gugada,,,-30,134,1
+1595,,gku,Gününa Küne,,,-41,-67,1
+1596,,hya,Haya,,,-2,31.5,1
+1597,,hid,Hidatsa,,,47,-102.5,1
+1598,,ho,Ho,,,22,86,1
+1599,,idn,Iduna,,,-9.33333333333,150.25,1
+1600,,ila,Ila,,,-15.5833333333,26.5,1
+1601,,klq,Kalam,,,-5.25,144.583333333,1
+1602,,khr,Kharia,,,22.5,84.3333333333,1
+1603,,knn,Kinnauri,,,31.5,78,1
+1604,,kta,Koita,,,-9.33333333333,147.083333333,1
+1605,,kop,Komi-Permyak,,,59.5,54.5,1
+1606,,kni,Konni,,,10.25,-1.58333333333,1
+1607,,lag,Lagwan,,,11.5,14.8333333333,1
+1608,,mla,Mambila,,,6.75,11.5,1
+1609,,mmb,Mangap-Mbula,,,-5.66666666667,148.083333333,1
+1610,,mas,Masa,,,10.5,15.5,1
+1611,,mbb,Mbabaram,,,-17.1666666667,145,1
+1612,,mea,Meyah,,,-1.16666666667,133.5,1
+1613,,mga,Mondunga,,,2.25,21.5,1
+1614,,mwe,Mwera,,,-9,39,1
+1615,,noc,Nocte,,,27,95.5,1
+1616,,ork,Orok,,,49.5,143.5,1
+1617,,pwn,Pawnee,,,41,-98.6666666667,1
+1618,,pia,Piaroa,,,5,-67,1
+1619,,qia,Qiang,,,32,102.666666667,1
+1620,,shp,Sahaptin (Northern),,,46.5,-120,1
+1621,,saw,Sawu,,,-11.5,121.916666667,1
+1622,,sho,Shoshone,,,41,-114,1
+1623,,tak,Takia,,,-4.66666666667,146,1
+1624,,tnc,Tanacross,,,63.5,-143.5,1
+1625,,thk,Thakali,,,29,83.75,1
+1627,,tkm,Turkmen,,,40,58,1
+1628,,wrw,Warrwa,,,-17.5,123.5,1
+1629,,zya,Zapotec (Yatzachi),,,17.2,-96.2,1
+1630,,zar,Zarma,,,13.8333333333,2.16666666667,1
+1631,,arb,Arabela,,,-2,-75.1666666667,1
+1632,,alk,Arop-Lokep,,,-5.38333333333,147.05,1
+1633,,awn,Awngi,,,10.8333333333,36.6666666667,1
+1634,,bgr,Bagiro,,,4.33333333333,20.5833333333,1
+1636,,cde,Carib (De'kwana),,,5.5,-65,1
+1637,,chl,Chehalis (Upper),,,46.5833333333,-123,1
+1638,,gid,Gidabal,,,-28.4166666667,152.416666667,1
+1639,,goe,Goemai,,,8.66666666667,9.75,1
+1640,,hma,Hmar,,,24.1666666667,93,1
+1642,,kms,Kamass,,,52,92,1
+1643,,kar,Kara (in Central African Republic),,,10,23,1
+1644,,klw,Kiliwa,,,31.3333333333,-115.666666667,1
+1645,,kla,Klao,,,4.75,-8.75,1
+1646,,kmo,Koiali (Mountain),,,-9,147.5,1
+1647,,kun,Kuna,,,8,-77.3333333333,1
+1648,,kxo,Kxoe,,,-17.5,22.5,1
+1649,,laa,Laal,,,10,17.6666666667,1
+1650,,lot,Lotha,,,26.5,94.25,1
+1651,,mdm,Madimadi,,,-34.5,143.5,1
+1653,,mbt,Mangbetu,,,2.5,26.5,1
+1654,,mbr,Mbara,,,11,15.4166666667,1
+1655,,mxj,Mixtec (Jicaltepec),,,16.3333333333,-98,1
+1656,,mxy,Mixtec (Yosondúa),,,16.9166666667,-97.5833333333,1
+1635,,baq,Baure,,,-13.0833333333,-64.1666666667,2
+1591,,cea,Cree (Swampy),,,56,-90,2
+1659,,oca,Ocaina,,,-2.75,-71.75,1
+1660,,oro,Orokaiva,,,-8.83333333333,148.25,1
+1662,,sba,Sáliba (in Colombia),,,6,-70,1
+1663,,sna,Shina,,,36,74,1
+1664,,tbl,Tabla,,,-2.45,140.416666667,1
+1665,,ura,Ura,,,-18.6666666667,169.083333333,1
+1666,,wak,Wakhi,,,36.5,72,1
+1667,,yok,Yokuts (Yaudanchi),,,36.0833333333,-119.083333333,1
+1668,,aar,Aari,,,6,36.5833333333,1
+1669,,aga,Agarabi,,,-6.16666666667,146,1
+1670,,agt,Anguthimri,,,-12.3333333333,141.833333333,1
+1671,,bdm,Badimaya,,,-27.6666666667,118,1
+1673,,bmb,Bimoba,,,10.5,0,1
+1674,,bgo,Bongo,,,7.5,28.5,1
+1675,,bum,Buma,,,-11.6333333333,166.833333333,1
+1676,,buu,Buru,,,-3.5,126.5,1
+1677,,cai,Chai,,,5.33333333333,35.3333333333,1
+1678,,drg,Dargwa,,,42.25,47.4166666667,1
+1679,,eud,Eudeve,,,29.1666666667,-109.666666667,1
+1680,,fri,Frisian,,,53,5,1
+1681,,gln,Golin,,,-6.33333333333,144.75,1
+1682,,gul,Gula (in Central African Republic),,,9.5,22.5,1
+1684,,jam,Jaminjung,,,-15.0833333333,130.5,1
+1685,,kad,Kadugli,,,11,29.6666666667,1
+1686,,kau,Kaulong,,,-6.16666666667,149.666666667,1
+1687,,kim,Kimaghama,,,-8,138.5,1
+1688,,koe,Koegu,,,7,36.0833333333,1
+1689,,kkt,Kokota,,,-8,159.133333333,1
+1690,,kyk,Kyaka,,,-5.55,144.083333333,1
+1691,,lar,Laragia,,,-12.6666666667,130.833333333,1
+1692,,lis,Lisu,,,26,98,1
+1693,,mlu,Maleu,,,-5.71666666667,148.416666667,1
+1695,,mru,Maru,,,23.5,98.5,1
+1696,,mno,Mono (in United States),,,38,-119,1
+1697,,mwo,Mwotlap,,,-13.5833333333,167.583333333,1
+1698,,ngo,Ngoni,,,-11,36,1
+1699,,nha,Nhanda,,,-27,114.166666667,1
+1700,,ptt,Pattani,,,32.75,76.75,1
+1701,,pok,Poko-Rawo,,,-2.83333333333,141.583333333,1
+1702,,prk,Purki,,,34.6666666667,76,1
+1703,,rit,Ritharngu,,,-12.8333333333,135.5,1
+1704,,rwe,Romani (Welsh),,,52,-4,1
+1705,,rum,Rumu,,,-7.16666666667,144.25,1
+1706,,run,Runga,,,10.3333333333,21,1
+1707,,srd,Sardinian,,,40,9,1
+1708,,see,Seediq,,,24.1666666667,121.416666667,1
+1709,,sor,Sora,,,20,84.3333333333,1
+1710,,tlo,Tobelo,,,1.5,128.5,1
+1712,,akh,Akha,,,21.8333333333,99.8333333333,1
+1713,,ang,Anggor,,,-3.75,141.166666667,1
+1714,,arq,Arabic (Iraqi),,,33,44,1
+1715,,ass,Assamese,,,26,93,1
+1716,,cak,Cakchiquel,,,14.5,-91,1
+1717,,cya,Chatino (Yaitepec),,,16.25,-97.25,1
+1718,,gon,Gondi,,,19,81,1
+1719,,hlp,Hualapai,,,35.5,-113.75,1
+1720,,hnd,Hunde,,,-1.16666666667,28.8333333333,1
+1721,,hpd,Hup,,,0.166666666667,-69.25,1
+1723,,ktl,Katla,,,11.8333333333,29.3333333333,1
+1724,,kwn,Kwangali,,,-18,19.5,1
+1725,,ldu,Lendu,,,2,30.5,1
+1726,,let,Leti,,,-8.2,127.666666667,1
+1727,,mae,Mae,,,-16,167.25,1
+1728,,mot,Motuna,,,-6.61666666667,155.416666667,1
+1729,,mrw,Muruwari,,,-28.75,147,1
+1730,,nma,Naga (Mao),,,25.5,94.3333333333,1
+1731,,nhm,Nahuatl (Michoacán),,,18.5,-103,1
+1732,,nph,Nar-Phu,,,28.6666666667,84.25,1
+1683,,irx,Iranxe,,,-13,-58,2
+1711,,ycn,Yucuna,,,-0.75,-71,2
+1741,,tmo,Tibetan (Modern Literary),,,29.8333333333,91.5,1
+1742,,tso,Tsou,,,23.5,120.75,1
+1743,,wrn,Warndarang,,,-14.4166666667,135.583333333,1
+1744,,yct,Yucatec,,,20,-89,1
+1745,,zay,Zayse,,,5.91666666667,37.3333333333,1
+1746,,apt,Apatani,,,27.5,93.75,1
+1747,,blr,Belorussian,,,54,28,1
+1748,,bil,Bilua,,,-7.75,156.666666667,1
+1749,,bii,Biri,,,-20.5,146.5,1
+1750,,chg,Chang,,,26.3333333333,94.75,1
+1751,,cmr,Chin (Mara),,,23,93.1666666667,1
+1752,,chs,Chin (Siyin),,,23.8333333333,94,1
+1753,,der,Dla (Proper),,,-3.58333333333,141,1
+1754,,gan,Great Andamanese,,,12,92.6666666667,1
+1755,,grj,Guarijío,,,27.75,-108.666666667,1
+1756,,juk,Jukun,,,6.91666666667,10.4166666667,1
+1757,,kbl,Kabyle,,,36.5,5,1
+1758,,kls,Kalispel,,,48,-117,1
+1759,,kaa,Karó (Arára),,,-10.3333333333,-62,1
+1761,,kin,Kinyarwanda,,,-2,30,1
+1762,,maj,Majang,,,6.75,35,1
+1763,,mlg,Malgwa,,,11.5,13.75,1
+1764,,man,Mano,,,7,-9,1
+1766,,mee,Me'en,,,5,37,1
+1767,,moa,Mono-Alu,,,-7.05,155.75,1
+1768,,nhh,Nahuatl (Huasteca),,,22,-99,1
+1769,,nev,Nevome,,,31,-112.5,1
+1771,,ntj,Ngaanyatjarra,,,-26,126.5,1
+1772,,nkn,Nkonya,,,7.16666666667,0.25,1
+1773,,nym,Nyamwezi,,,-5,33,1
+1774,,ocu,Ocuilteco,,,18.9166666667,-99.6666666667,1
+1776,,sdw,Sandawe,,,-5,35,1
+1777,,sar,Sare,,,-4.5,143.166666667,1
+1778,,skk,Sikkimese,,,27.8333333333,88.5,1
+1779,,tlf,Telefol,,,-5,141.75,1
+1780,,tug,Tuareg (Ahaggar),,,23,6,1
+1781,,uld,Uldeme,,,10.95,14.1166666667,1
+1782,,uyg,Uyghur,,,40,80,1
+1783,,wal,Walman,,,-3.21666666667,142.5,1
+1784,,yng,Yingkarta,,,-25.1666666667,114.833333333,1
+1785,,zch,Zoque (Chimalapa),,,16.75,-94.75,1
+1787,,abm,Alabama,,,32.3333333333,-87.4166666667,1
+1788,,ale,Aleut,,,54,-166,1
+1789,,amq,Ambai,,,-1.83333333333,136.5,1
+1790,,bho,Bhojpuri,,,26,84,1
+1792,,cam,Camsá,,,1.16666666667,-77,1
+1793,,ckl,Chinook (Lower),,,46.25,-123.5,1
+1794,,duk,Duka,,,11.1666666667,5.08333333333,1
+1796,,gok,Gokana,,,4.58333333333,7.33333333333,1
+1797,,gjj,Guajajara,,,-5,-46,1
+1798,,hal,Halia,,,-5.25,154.666666667,1
+1799,,hmr,Hamer,,,5,36.5,1
+1800,,hui,Huichol,,,22,-104,1
+1802,,kbw,Karen (Bwe),,,19.5,97,1
+1803,,kok,Kokborok,,,24.3333333333,92.5,1
+1804,,kre,Kresh,,,8.5,24.5,1
+1805,,kuv,Kuvi,,,18.75,82.6666666667,1
+1806,,lgu,Longgu,,,-9.75,160.666666667,1
+1807,,msg,Mising,,,28.5,94.8333333333,1
+1808,,mut,Mutsun,,,36.8333333333,-121.5,1
+1809,,nam,Namia,,,-3.83333333333,141.75,1
+1962,,sem,Sema,,,26,94.5,1
+1786,,acg,Achagua,,,4.41666666667,-72.25,2
+1760,,kem,Kemant,,,12.6666666667,37.4166666667,2
+1816,,teo,Teop,,,-5.66666666667,155,1
+1818,,xho,Xhosa,,,-32,27,1
+1819,,yay,Yay,,,22.4166666667,104.75,1
+1820,,zap,Zapotec (Mitla),,,16.8,-96.25,1
+1821,,adi,Adioukrou,,,5.41666666667,-4.58333333333,1
+1823,,agm,Angami,,,25.6666666667,94.5,1
+1824,,atk,Atakapa,,,30,-93.5,1
+1825,,bak,Baka (in Cameroon),,,2.58333333333,13.5833333333,1
+1826,,brf,Berber (Rif),,,34.5,-4,1
+1827,,bra,Brao,,,14.1666666667,107.5,1
+1828,,chn,Chantyal,,,28.5833333333,83.4166666667,1
+1830,,for,Fore,,,-6.75,145.5,1
+1831,,gur,Gurung,,,28.3333333333,84.3333333333,1
+1832,,hak,Hakka,,,25,116,1
+1833,,izi,Izi,,,6.33333333333,8,1
+1835,,krw,Korowai,,,-5.25,140,1
+1836,,lmg,Lamang,,,11.25,13.5833333333,1
+1837,,lil,Lillooet,,,50.75,-122,1
+1838,,mcd,Macedonian,,,41.6666666667,21.75,1
+1839,,mny,Margany,,,-27,144.5,1
+1840,,mik,Mikir,,,26.3333333333,93.5,1
+1841,,mxo,Mixtec (Ocotepec),,,17.1666666667,-97.75,1
+1842,,mui,Muinane,,,-1,-72.5,1
+1843,,nab,Nabak,,,-6.41666666667,147,1
+1844,,nai,Nanai,,,49.5,137,1
+1845,,pba,Pima Bajo,,,29,-111,1
+1846,,tma,Tama,,,14.5,22,1
+1847,,tce,Tarahumara (Central),,,27.5,-107.5,1
+1848,,tmn,Temein,,,11.9166666667,29.4166666667,1
+1849,,tep,Tepehua (Tlachichilco),,,20.5833333333,-98.25,1
+1850,,tir,Tiriyo,,,3.25,-55.75,1
+1851,,tsf,Tsafiki,,,-1,-79.3333333333,1
+1852,,tnn,Tunen,,,4.75,10.6666666667,1
+1853,,tzo,Tzotzil,,,16.5,-92.6666666667,1
+1854,,wat,Watjarri,,,-26,117.5,1
+1855,,way,Wayampi,,,1,-52,1
+1856,,wly,Wolaytta,,,6.83333333333,37.75,1
+1857,,yny,Yanyuwa,,,-16.4166666667,137.166666667,1
+1858,,aln,Alune,,,-3,128.333333333,1
+1859,,ane,Anêm,,,-5.58333333333,149.083333333,1
+1860,,abn,Arabana,,,-28.25,136.25,1
+1861,,bnj,Bandjalang,,,-28.75,153,1
+1862,,cem,Cèmuhî,,,-20.8333333333,165.166666667,1
+1863,,chh,Chaha,,,8.112935,37.93267,1
+1864,,dga,Dagaare,,,10.5,-2.66666666667,1
+1865,,efi,Efik,,,4.91666666667,8.5,1
+1866,,ga,Gã,,,5.66666666667,-0.166666666667,1
+1867,,gmz,Gumuz,,,12.5,35.8333333333,1
+1870,,kkp,Karakalpak,,,43,60,1
+1871,,kri,Kipea,,,-10,-37,1
+1872,,lal,Lalo,,,25,100.25,1
+1873,,lmn,Lamani,,,17,77,1
+1874,,lbu,Lunda,,,-10.6666666667,24,1
+1875,,mog,Moghol,,,35,62,1
+1876,,mor,Mor,,,-2.95,135.75,1
+1877,,ngt,Naga (Tangkhul),,,25,94.5,1
+1878,,ndj,Ndjébbana,,,-12.1666666667,134.116666667,1
+1879,,nyu,Nyulnyul,,,-17,122.833333333,1
+1880,,obg,Ogbronuagum,,,4.75,6.86666666667,1
+1882,,ten,Tennet,,,4.41666666667,32.5,1
+1883,,tes,Teso,,,1.83333333333,33.8333333333,1
+1884,,woi,Woisika,,,-8.25,124.833333333,1
+2342,,wlf,Wolof,,,15.25,-16,1
+1868,,ign,Ignaciano,,,-15.1666666667,-65.4166666667,2
+1890,,cpl,Chinantec (Palantla),,,18.8333333333,-96.75,1
+1893,,ful,Fulniô,,,-8,-37.5,1
+1894,,iqu,Iquito,,,-3.25,-74,1
+1895,,ito,Itonama,,,-12.8333333333,-64.3333333333,1
+1896,,jav,Javanese,,,-7,111,1
+1897,,khl,Khalaj,,,35,50,1
+1898,,kik,Kikuyu,,,-0.75,36.75,1
+1899,,koi,Koiari,,,-9.5,147.333333333,1
+1900,,msn,Maisin,,,-9.5,149.166666667,1
+1901,,mdn,Mandan,,,46.5,-102.5,1
+1902,,maw,Maninka (Western),,,13,-11,1
+1903,,mzc,Mazatec (Chiquihuitlán),,,17.75,-96.9166666667,1
+1904,,mba,Mba,,,1,25,1
+1906,,mou,Moru,,,4.75,29.75,1
+1907,,mgu,Musgu,,,10.8333333333,14.9166666667,1
+1908,,nnc,Nancowry,,,8.05,93.5,1
+1909,,nue,Nuer,,,8.33333333333,32,1
+1910,,pkn,Paakantyi,,,-32.5,142.5,1
+1911,,pny,Panyjima,,,-22.8333333333,118.416666667,1
+1912,,pul,Puluwat,,,7.33333333333,149.333333333,1
+1913,,shl,Shilluk,,,9.66666666667,31.75,1
+1914,,sng,Sinaugoro,,,-9.83333333333,147.833333333,1
+1915,,tps,Tepehuan (Southeastern),,,23,-104.5,1
+1916,,tus,Tuscarora,,,36,-77.5,1
+1918,,ywl,Yawelmani,,,35.4166666667,-119,1
+1919,,amb,Ambulas,,,-3.83333333333,143,1
+1920,,amo,Amo,,,10.3333333333,8.66666666667,1
+1922,,bln,Bilin,,,15.75,38.5,1
+1923,,bua,Burarra,,,-12.25,134.583333333,1
+1925,,cmy,Chontal Maya,,,18.1666666667,-92.5833333333,1
+1926,,coc,Cocama,,,-5,-74.5,1
+1927,,did,Didinga,,,4.5,33.5,1
+1928,,dig,Digaro,,,28.4166666667,96,1
+1929,,fas,Fasu,,,-6.58333333333,143.333333333,1
+1930,,gim,Gimira,,,7,35.75,1
+1931,,guj,Gujarati,,,23,72,1
+1932,,jmo,Jur Mödö,,,6,30,1
+1933,,krr,Kairiru,,,-3.33333333333,143.583333333,1
+1934,,knc,Kugu Nganhcara,,,-14.4166666667,142,1
+1935,,mng,Manggarai,,,-8.5,120.333333333,1
+1936,,mra,Mara,,,-15,135.166666667,1
+1937,,mka,Mauka,,,8.33333333333,-7.5,1
+1938,,mtu,Motu,,,-9.33333333333,147,1
+1939,,ngk,Ngankikurungkurr,,,-14,130.5,1
+1940,,nyi,Nyimang,,,12.1666666667,29.3333333333,1
+1941,,plh,Paulohi,,,-3.25,128.75,1
+1942,,pme,Pomo (Eastern),,,39,-122.666666667,1
+1943,,src,Sarcee,,,52.5,-116,1
+1944,,sin,Siona,,,0.333333333333,-76.25,1
+1945,,tul,Tulu,,,12.75,75.3333333333,1
+1946,,any,Anywa,,,8,33.5,1
+1947,,aro,Arosi,,,-10.25,161.333333333,1
+1948,,baj,Bajau (Sama),,,-4.33333333333,123,1
+1949,,blx,Biloxi,,,30.5,-88.6666666667,1
+1950,,cic,Chichewa,,,-14,34,1
+1951,,cba,Chumash (Barbareño),,,34.5,-120.25,1
+1954,,gds,Gadsup,,,-6.25,146,1
+1955,,god,Godoberi,,,42.6666666667,46.0833333333,1
+1956,,igs,Ingessana,,,11.5,34,1
+1957,,krn,Korana,,,-29.5,20.5,1
+1958,,kpe,Kpelle,,,7,-10,1
+1959,,mbm,Mbum,,,7.75,13.1666666667,1
+1960,,meh,Mehri,,,17,51.5,1
+1961,,ngm,Ngambay,,,8.66666666667,16,1
+1888,,ath,Athpare,,,27,87.3333333333,2
+1892,,fua,Fulfulde (Adamawa),,,9.16666666667,13.5,2
+1967,,tvl,Tuvaluan,,,-8.5,179.166666667,1
+1968,,uby,Ubykh,,,43.6666666667,39.6666666667,1
+1969,,urd,Urdu,,,25,67,1
+1970,,wry,Waray (in Australia),,,-13.1666666667,131.25,1
+1971,,wrg,Warrgamay,,,-18.5833333333,146.083333333,1
+1972,,wmu,Wik Munkan,,,-13.9166666667,141.75,1
+1973,,yin,Yindjibarndi,,,-21.75,117.916666667,1
+1975,,bfg,Berber (Figuig),,,32.5,-1.5,1
+1976,,kmj,Karimojong,,,3,34.1666666667,1
+1977,,moo,Mooré,,,12.8333333333,-1.25,1
+1978,,moe,Mordvin (Erzya),,,53,45.5,1
+1979,,nup,Nupe,,,9.16666666667,5.41666666667,1
+1980,,paw,Pawaian,,,-7,145.083333333,1
+1981,,pec,Pech,,,15,-85.5,1
+1982,,slb,Saliba (in Papua New Guinea),,,-10.5833333333,150.716666667,1
+1983,,slo,Slovene,,,46,15,1
+1984,,taj,Tajik,,,38.6666666667,70,1
+1985,,tmr,Temiar,,,5,101.5,1
+1986,,twn,Tiwa (Northern),,,36.5,-105.5,1
+1988,,tot,Totonac (Misantla),,,19.9166666667,-96.9166666667,1
+1989,,wem,Wembawemba,,,-35.3333333333,144,1
+1990,,wik,Wikchamni,,,36.4166666667,-119.083333333,1
+1991,,bud,Buduma,,,13.5,14.5,1
+1992,,crn,Cornish,,,50.3333333333,-5,1
+1993,,egn,Engenni,,,5.16666666667,6.38333333333,1
+1994,,ese,Ese Ejja,,,-11,-66,1
+1996,,hmi,Huitoto (Minica),,,-0.333333333333,-74,1
+1997,,kom,Komo,,,8.75,33.75,1
+1998,,kku,Korku,,,22.5,78.5,1
+1999,,kmp,Kunimaipa,,,-8,146.833333333,1
+2000,,lmp,Lampung,,,-5,105,1
+2001,,llm,Lelemi,,,7.33333333333,0.5,1
+2002,,lin,Lingala,,,2,18.5,1
+2003,,ndo,Ndonga,,,-18,17,1
+2004,,naj,Neo-Aramaic (Arbel Jewish),,,36.3833,44.0,1
+2005,,nsg,Nisgha,,,55,-130,1
+2007,,par,Päri,,,5,32.5,1
+2008,,raw,Rawang,,,27.5,97.5,1
+2009,,rut,Rutul,,,41.5,47.4166666667,1
+2011,,yar,Yareba,,,-9.5,148.5,1
+2012,,yes,Yessan-Mayo,,,-4.16666666667,142.583333333,1
+2013,,yus,Yupik (Siberian),,,65,-173,1
+2014,,yuw,Yuwaalaraay,,,-29.5,148,1
+2015,,zai,Zapotec (Isthmus),,,16.416667,-95,1
+2016,,arw,Armenian (Western),,,38.5,43.5,1
+2017,,baa,Barai,,,-9.33333333333,148.083333333,1
+2019,,cti,Chin (Tiddim),,,23.3333333333,93.6666666667,1
+2020,,cor,Cora,,,22.1666666667,-104.833333333,1
+2021,,djr,Djaru,,,-18.75,128,1
+2023,,jab,Jabêm,,,-6.58333333333,147.783333333,1
+2024,,kma,Kamaiurá,,,-12.0833333333,-52.5833333333,1
+2025,,kuo,Kuot,,,-3.05,151.5,1
+2026,,lda,Luganda,,,0.5,32.1666666667,1
+2027,,nak,Nakanai,,,-5.58333333333,150.583333333,1
+2029,,sro,Siroi,,,-5.5,146,1
+2030,,sul,Sulka,,,-5.08333333333,151.916666667,1
+2031,,txj,Totonac (Xicotepec de Juárez),,,20.4166666667,-97.8333333333,1
+2032,,tri,Trique (Copala),,,17.1666666667,-97.9166666667,1
+2033,,xoo,!Xóõ,,,-24,21.5,1
+2034,,yul,Yulu,,,8.5,25.25,1
+2035,,anj,Anejom,,,-20.2,169.8,1
+2036,,asy,Arabic (Syrian),,,34,38,1
+1995,,grf,Garífuna,,,15.6666666667,-88,2
+2010,,tar,Tariana,,,1,-69.1666666667,2
+2028,,plk,Palikur,,,3,-51,2
+2006,,nis,Nyishi,,,27.5,93.5,1
+2041,,gmw,Gumawana,,,-9.25,150.833333333,1
+2042,,kng,Kaingang,,,-26,-52,1
+2043,,kmk,Kalmyk,,,44,83,1
+2044,,krc,Karachay-Balkar,,,43.5,42,1
+2045,,mad,Ma'di,,,3.25,31.5,1
+2046,,mnm,Manam,,,-4,145,1
+2047,,ndt,Ndut,,,14.9166666667,-16.9166666667,1
+2048,,nga,Nganasan,,,71,93,1
+2049,,obo,Obolo,,,4.58333333333,7.83333333333,1
+2050,,udm,Udmurt,,,57.5,52.5,1
+2051,,wbn,Wambon,,,-5.5,140.416666667,1
+2052,,wol,Woleaian,,,7.33333333333,143.833333333,1
+2053,,ytu,Yukaghir (Tundra),,,69,155,1
+2054,,amc,Amahuaca,,,-10.5,-72.5,1
+2055,,bai,Bai,,,26,100,1
+2056,,bya,Byansi,,,30.1666666667,80.5,1
+2057,,cay,Cayapa,,,0.666666666667,-79,1
+2058,,chp,Chipewyan,,,59,-106,1
+2059,,dji,Djingili,,,-17.75,134,1
+2061,,kol,Kolami,,,20,78.5,1
+2062,,kry,Koryak,,,61,167,1
+2064,,mxp,Mixtec (Peñoles),,,17.0833333333,-96.9166666667,1
+2065,,moh,Mohawk,,,43.5,-74.25,1
+2066,,mos,Mosetén,,,-14.75,-67.8333333333,1
+2067,,nua,Nuaulu,,,-3.25,129.166666667,1
+2068,,ute,Ute,,,39,-109,1
+2069,,acm,Achumawi,,,41.5,-121,1
+2070,,anc,Angas,,,9.5,9.5,1
+2071,,api,Apinayé,,,-5.5,-48,1
+2072,,bod,Bodo,,,26.8333333333,92,1
+2073,,chq,Chinantec (Quiotepec),,,17.5833333333,-96.6666666667,1
+2074,,dan,Dan,,,7.5,-8,1
+2075,,diz,Dizi,,,6.16666666667,36.5,1
+2076,,gud,Gude,,,10.4166666667,13.4166666667,1
+2077,,irr,Irarutu,,,-3,133.5,1
+2078,,koy,Koya,,,17.5,81.3333333333,1
+2079,,men,Menomini,,,45.5,-88.3333333333,1
+2080,,mie,Mien,,,25,111,1
+2082,,ppi,Pitta Pitta,,,-22.8333333333,140,1
+2083,,rem,Remo,,,18,82,1
+2084,,rot,Rotuman,,,-12.5,177.066666667,1
+2085,,slp,Selepet,,,-6.16666666667,147.166666667,1
+2086,,shi,Shiriana,,,3.5,-62.8333333333,1
+2087,,tol,Tol,,,14.6666666667,-87,1
+2088,,tbu,Tubu,,,16,15,1
+2089,,tuc,Tucano,,,0.5,-69.1666666667,1
+2090,,ani,//Ani,,,-18.9166666667,21.9166666667,1
+2091,,bla,Blackfoot,,,50,-112.666666667,1
+2092,,ccp,Cocopa,,,32.3333333333,-115,1
+2093,,fut,Futuna-Aniwa,,,-19.5333333333,170.216666667,1
+2094,,hum,Huitoto (Murui),,,-1,-73.5,1
+2095,,jiv,Jivaro,,,-2.5,-78,1
+2096,,kam,Kambera,,,-9.83333333333,120.166666667,1
+2097,,kzy,Komi-Zyrian,,,65,55,1
+2098,,lao,Lao,,,18,103,1
+2099,,lnd,Linda,,,6.5,20.75,1
+2100,,mai,Maithili,,,26,86,1
+2101,,msl,Masalit,,,13.3333333333,22,1
+2102,,nhn,Nahuatl (North Puebla),,,20,-98.25,1
+2103,,syu,Salt-Yui,,,-6.28333333333,145.033333333,1
+2104,,ser,Seri,,,29,-112,1
+2105,,shn,Shona,,,-18,31,1
+2106,,sre,Sre,,,11.5,108,1
+2107,,tng,Tongan,,,-21.1666666667,-175.166666667,1
+2108,,vai,Vai,,,6.91666666667,-11.25,1
+2109,,wrl,Warlpiri,,,-20,132.333333333,1
+2110,,gum,Gumbaynggir,,,-30.1666666667,152.5,1
+2112,,kws,Kawaiisu,,,36,-117.5,1
+2113,,kgz,Kirghiz,,,42,75,1
+2111,,gwa,Gwari,,,9.5,7,2
+2117,,nbr,Ngäbere,,,8.66666666667,-82,1
+2118,,niu,Niuean,,,-19.05,-170.116666667,1
+2119,,noo,Noon,,,14.8333333333,-16.8333333333,1
+2120,,pno,Paiute (Northern),,,42,-118,1
+2121,,sal,Salinan,,,36,-121,1
+2122,,aly,Alyawarra,,,-22.5,135,1
+2123,,cbo,Chácobo,,,-12.1666666667,-66.75,1
+2124,,kan,Kana,,,4.75,7.41666666667,1
+2126,,kwo,Kwoma,,,-4.16666666667,142.75,1
+2127,,mnc,Manchu,,,49.5,127.5,1
+2128,,non,Noni,,,6.41666666667,10.5833333333,1
+2129,,per,Pero,,,9.58333333333,11,1
+2130,,taw,Tawala,,,-10.3333333333,150.666666667,1
+2131,,bco,Bella Coola,,,52.5,-126.666666667,1
+2132,,ber,Berta,,,10.3333333333,34.6666666667,1
+2133,,cso,Chatino (Sierra Occidental),,,16.25,-97.3333333333,1
+2134,,cmh,Chemehuevi,,,34.3333333333,-115.166666667,1
+2135,,ewo,Ewondo,,,4,12,1
+2136,,ksg,Karen (Sgaw),,,18,97,1
+2137,,kwk,Kwakw'ala,,,51,-127,1
+2138,,mlt,Maltese,,,35.9166666667,14.4166666667,1
+2139,,miz,Mizo,,,23.1666666667,92.8333333333,1
+2141,,wah,Wahgi,,,-5.83333333333,144.716666667,1
+2143,,ata,Atayal,,,24.5,121.333333333,1
+2144,,aze,Azerbaijani,,,40.5,48.5,1
+2146,,bar,Bari,,,5,31.6666666667,1
+2147,,ben,Bengali,,,24,90,1
+2148,,but,Buriat,,,52,108,1
+2149,,chc,Chechen,,,43.25,45.8333333333,1
+2150,,err,Erromangan,,,-18.8333333333,169.166666667,1
+2151,,hua,Hua,,,-6.33333333333,145.333333333,1
+2153,,jeb,Jebero,,,-5.41666666667,-76.5,1
+2154,,jng,Jingpho,,,25.4166666667,97,1
+2155,,mme,Mari (Meadow),,,57,48,1
+2156,,mby,Mbay,,,8.25,17.5,1
+2157,,mpa,Murrinh-Patha,,,-14.6666666667,129.666666667,1
+2159,,sno,Saami (Northern),,,69,24,1
+2160,,ukr,Ukrainian,,,49,33,1
+2161,,was,Washo,,,39.25,-120,1
+2162,,yuk,Yukulta,,,-17.3333333333,138.833333333,1
+2164,,kya,Kuku-Yalanji,,,-16,145,1
+2165,,sah,Sahu,,,1.16666666667,127.5,1
+2166,,skp,Selkup,,,65,82,1
+2167,,ttu,Tsova-Tush,,,42.5,45.5,1
+2168,,wsk,Waskia,,,-4.5,146,1
+2169,,alw,Alawa,,,-15.1666666667,134.25,1
+2170,,ao,Ao,,,26.5833333333,94.6666666667,1
+2171,,apl,Apalaí,,,0,-54,1
+2172,,bbw,Bininj Gun-Wok,,,-12.5,133.75,1
+2173,,fye,Fyem,,,9.58333333333,9.33333333333,1
+2174,,grr,Garrwa,,,-17.0833333333,137.166666667,1
+2175,,kgu,Kalkatungu,,,-21,139.5,1
+2176,,lai,Lai,,,22.6666666667,93.6666666667,1
+2177,,mro,Moro,,,11,30.1666666667,1
+2178,,nar,Nara (in Ethiopia),,,15.0833333333,37.5833333333,1
+2180,,tvo,Tatar,,,56,49.5,1
+2181,,tpn,Tepehuan (Northern),,,26.3333333333,-107,1
+2182,,tib,Tibetan (Standard Spoken),,,30,91,1
+2184,,udh,Udihe,,,47.6666666667,136.25,1
+2185,,zan,Zande,,,4,26,1
+2186,,cct,Choctaw,,,32.25,-88.5,1
+2187,,cop,Coptic,,,26,32,1
+2188,,dgb,Dagbani,,,9.58333333333,-0.5,1
+2189,,dum,Dumo,,,-2.68333333333,141.3,1
+2646,,bdw,Baham,,,-3.16666666667,132.666666667,1
+2142,,wrk,Warekena,,,1.5,-67.5,2
+2145,,bae,Baré,,,1,-67,2
+2183,,tlp,Tlapanec,,,17.0833333333,-99,2
+2163,,kkv,Lusi,,,-5.58333333333,149.666666667,1
+2193,,snh,Sinhala,,,7,80.5,1
+2194,,tas,Tashlhiyt,,,31,-5,1
+2195,,trb,Teribe,,,9.33333333333,-82.6666666667,1
+2196,,tja,Tiipay (Jamul),,,32.1666666667,-116.5,1
+2197,,tla,Tolai,,,-4.25,152.083333333,1
+2198,,yel,Yelî Dnye,,,-11.3666666667,154.166666667,1
+2199,,amr,Arabic (Moroccan),,,34,-6,1
+2202,,bir,Birom,,,9.66666666667,8.83333333333,1
+2203,,din,Dinka,,,8.5,28,1
+2204,,evn,Even,,,68,130,1
+2206,,mgg,Mangghuer,,,36,102,1
+2209,,snc,Seneca,,,42.5,-77.5,1
+2210,,srn,Sirionó,,,-15.5833333333,-64,1
+2211,,tah,Tahitian,,,-17.6666666667,-149.583333333,1
+2212,,tkl,Takelma,,,42.5,-123,1
+2213,,uhi,Uradhi,,,-11.9166666667,142.416666667,1
+2214,,che,Cherokee,,,35.5,-83.5,1
+2215,,cze,Czech,,,50,15,1
+2216,,dsh,Danish,,,56,10,1
+2217,,hup,Hupa,,,41.0833333333,-123.666666667,1
+2218,,ite,Itelmen,,,57,157.5,1
+2219,,kab,Kabardian,,,43.5,43.5,1
+2220,,knk,Kanakuru,,,10,12,1
+2221,,kwa,Kwaio,,,-8.95,161,1
+2222,,lel,Lele,,,9.08333333333,15.5833333333,1
+2223,,shu,Shuswap,,,52,-120,1
+2224,,so,So,,,2.58333333333,34.75,1
+2225,,tne,Temne,,,8.66666666667,-13.0833333333,1
+2226,,ctl,Catalan,,,41.75,2,1
+2227,,fni,Fulfulde (Nigerian),,,10.25,11.25,1
+2228,,lui,Luiseño,,,33.3333333333,-117.166666667,1
+2230,,nas,Nasioi,,,-6.33333333333,155.583333333,1
+2231,,por,Portuguese,,,39,-8,1
+2232,,siu,Siuslaw,,,44,-124,1
+2234,,chr,Chrau,,,10.75,107.5,1
+2235,,est,Estonian,,,59,26,1
+2236,,gae,Gaelic (Scots),,,57,-4,1
+2237,,guu,Guugu Yimidhirr,,,-15,144.833333333,1
+2238,,hop,Hopi,,,36,-110,1
+2239,,mis,Miskito,,,14,-83.6666666667,1
+2240,,mum,Mumuye,,,9,11.6666666667,1
+2241,,tac,Tacana,,,-13.5,-68,1
+2242,,ter,Tera,,,11,11.8333333333,1
+2243,,wma,West Makian,,,0.5,127.583333333,1
+2244,,wiy,Wiyot,,,40.8333333333,-124.166666667,1
+2245,,abu,Abun,,,-0.5,132.5,1
+2246,,bab,Babungo,,,6.11666666667,10.4166666667,1
+2247,,brr,Bororo,,,-16,-57,1
+2248,,djp,Djapu,,,-12.6666666667,136,1
+2249,,doy,Doyayo,,,8.66666666667,13.0833333333,1
+2250,,krd,Kurdish (Central),,,36,44,1
+2251,,len,Lenakel,,,-19.45,169.25,1
+2252,,mam,Mam,,,15,-91.8333333333,1
+2253,,nca,Nicobarese (Car),,,9,93,1
+2254,,qaw,Qawasqar,,,-49,-75,1
+2255,,ttn,Tetun,,,-9,126,1
+2256,,tid,Tidore,,,0.75,127.5,1
+2257,,ygr,Yagaria,,,-6.33333333333,145.416666667,1
+2258,,arg,Arabic (Gulf),,,26,49,1
+2259,,cub,Cubeo,,,1.33333333333,-70.5,1
+2260,,dgr,Dagur,,,48,124,1
+2261,,htc,Huastec,,,22.0833333333,-99.3333333333,1
+2262,,ik,Ik,,,3.75,34.1666666667,1
+2263,,nun,Nung (in Vietnam),,,21.9166666667,106.416666667,1
+2264,,pae,Páez,,,2.66666666667,-76,1
+2265,,sed,Sedang,,,14.8333333333,108,1
+2200,,ara,Arawak,,,5.5,-55.1666666667,2
+2205,,goa,Goajiro,,,12,-72,2
+2207,,oji,Ojibwa (Eastern),,,46,-80,2
+2270,,mup,Mupun,,,9.5,8.83333333333,1
+2271,,ngl,Ngalakan,,,-14.25,134,1
+2272,,scr,Serbian-Croatian,,,44,19,1
+2273,,tin,Tinrin,,,-21.6666666667,165.75,1
+2274,,arc,Archi,,,42,46.8333333333,1
+2275,,ava,Avar,,,42.5,46.5,1
+2278,,miy,Miya,,,10.9166666667,9.66666666667,1
+2279,,ngz,Ngizim,,,12.0833333333,10.9166666667,1
+2280,,poh,Pohnpeian,,,6.88333333333,158.25,1
+2281,,tna,Turkana,,,3,35.5,1
+2282,,uzb,Uzbek,,,39,66,1
+2283,,hve,Huave (San Mateo del Mar),,,16.2166666667,-95,1
+2284,,kty,Khanty,,,65,65,1
+2285,,mym,Malayalam,,,10,76.5,1
+2286,,tel,Telugu,,,16,79,1
+2287,,ykt,Yakut,,,62,130,1
+2288,,awt,Awtuw,,,-3.58333333333,142,1
+2289,,klm,Klamath,,,42.5,-121.5,1
+2290,,nep,Nepali,,,28,85,1
+2291,,tgr,Tigré,,,16.5,38.5,1
+2292,,tuv,Tuvan,,,52,95,1
+2293,,hat,Hatam,,,-1,134,1
+2294,,mok,Mokilese,,,6.66666666667,159.75,1
+2295,,nor,Norwegian,,,61,8,1
+2296,,qui,Quileute,,,47.9166666667,-124.25,1
+2297,,ret,Retuarã,,,-0.5,-70.6666666667,1
+2298,,tau,Tauya,,,-5.75,145.333333333,1
+2299,,bre,Breton,,,48,-3,1
+2300,,ijo,Ijo (Kolokuma),,,4.91666666667,5.66666666667,1
+2301,,luo,Luo,,,-0.5,34.75,1
+2302,,pal,Palauan,,,7.5,134.583333333,1
+2303,,psh,Pashto,,,33,67,1
+2304,,sam,Samoan,,,-13.9166666667,-171.833333333,1
+2305,,sel,Selknam,,,-53,-70,1
+2306,,wao,Waorani,,,-1,-76.5,1
+2307,,wap,Wappo,,,38.5,-122.5,1
+2308,,win,Wintu,,,41,-122.5,1
+2309,,akn,Akan,,,6.5,-1.25,1
+2310,,bri,Bribri,,,9.41666666667,-83,1
+2311,,kis,Kisi,,,8.83333333333,-10.1666666667,1
+2314,,lug,Lugbara,,,3.08333333333,30.9166666667,1
+2315,,maa,Maasai,,,-3,36,1
+2316,,tsh,Tümpisa Shoshone,,,37,-117,1
+2317,,wel,Welsh,,,52,-3,1
+2318,,yap,Yapese,,,9.58333333333,138.166666667,1
+2319,,iaa,Iaai,,,-20.4166666667,166.583333333,1
+2320,,jaq,Jaqaru,,,-13,-76,1
+2321,,tgk,Tigak,,,-2.71666666667,150.8,1
+2322,,ton,Tonkawa,,,30.25,-96.75,1
+2323,,mhi,Marathi,,,19,76,1
+2324,,pip,Pipil,,,13.8333333333,-89.5833333333,1
+2325,,tzu,Tzutujil,,,14.6666666667,-91.3333333333,1
+2326,,amp,Arrernte (Mparntwe),,,-24,136,1
+2327,,die,Diegueño (Mesa Grande),,,32.6666666667,-116.166666667,1
+2328,,diy,Diyari,,,-28,139,1
+2329,,ice,Icelandic,,,65,-17,1
+2330,,pan,Panjabi,,,31,74,1
+2331,,lak,Lak,,,42.1666666667,47.1666666667,1
+2332,,mne,Maidu (Northeast),,,40,-120.666666667,1
+2333,,eka,Ekari,,,-3.83333333333,135.5,1
+2334,,ham,Hamtai,,,-7.5,146.25,1
+2335,,mrg,Margi,,,11,13,1
+2336,,nan,Nandi,,,0.25,35,1
+2337,,mac,Macushi,,,4,-60,1
+2338,,mrd,Marind,,,-7.83333333333,140.166666667,1
+2340,,mab,Maba,,,13.75,20.8333333333,1
+2341,,swe,Swedish,,,60,15,1
+2276,,gbb,Gbeya Bossangoa,,,6.66666666667,17.5,2
+2312,,cax,Campa (Axininca),,,-12,-74,3
+2346,,kas,Kashmiri,,,34,76,1
+2347,,pur,Purépecha,,,19.5,-101.666666667,1
+2348,,una,Una,,,-4.66666666667,140,1
+2349,,dyi,Dyirbal,,,-17.8333333333,145.583333333,1
+2350,,haw,Hawaiian,,,19.5833333333,-155.5,1
+2351,,ita,Italian,,,43,12,1
+2352,,kch,Koyra Chiini,,,17,-3,1
+2353,,lit,Lithuanian,,,55,24,1
+2354,,ood,O'odham,,,32,-112,1
+2355,,rom,Romanian,,,46,25,1
+2356,,tml,Tamil,,,11,78.5,1
+2357,,bul,Bulgarian,,,42.5,25,1
+2358,,lah,Lahu,,,20,98.1666666667,1
+2359,,yuc,Yuchi,,,35.75,-86.75,1
+2360,,pso,Pomo (Southeastern),,,39,-122.5,1
+2361,,zun,Zuni,,,35.0833333333,-108.833333333,1
+2362,,snt,Sentani,,,-2.58333333333,140.583333333,1
+2363,,krb,Kiribati,,,1.33333333333,173,1
+2365,,ypk,Yup'ik (Central),,,59.5,-160,1
+2366,,cnt,Cantonese,,,23,113,1
+2367,,fur,Fur,,,13.5,25,1
+2368,,pol,Polish,,,52,20,1
+2369,,ker,Kera,,,9.83333333333,15.0833333333,1
+2370,,lad,Ladakhi,,,34,78,1
+2371,,lep,Lepcha,,,27.1666666667,88.5,1
+2372,,tli,Tlingit,,,59,-135,1
+2373,,wam,Wambaya,,,-18.6666666667,135.75,1
+2374,,alb,Albanian,,,41,20,1
+2375,,bam,Bambara,,,12.5,-7.5,1
+2376,,kyl,Kayah Li (Eastern),,,19,97.5,1
+2377,,nti,Ngiti,,,1.33333333333,30.25,1
+2378,,car,Carib,,,5.5,-56,1
+2379,,mak,Makah,,,48.3333333333,-124.666666667,1
+2339,,abi,Abipón,,,-29,-61,1
+2380,,tsi,Tsimshian (Coast),,,52.5,-129,1
+2381,,tun,Tunica,,,32.6666666667,-91,1
+2382,,sue,Suena,,,-7.75,147.55,1
+2383,,mku,Maranungku,,,-13.6666666667,130,1
+2384,,mrl,Murle,,,6.5,33.5,1
+2385,,psm,Passamaquoddy-Maliseet,,,45,-67,1
+2386,,pit,Pitjantjatjara,,,-26,130,1
+2387,,amh,Amharic,,,10,38,1
+2388,,ana,Araona,,,-12.3333333333,-67.75,1
+2389,,cyv,Cayuvava,,,-13.5,-65.5,1
+2390,,dio,Diola-Fogny,,,13,-16.25,1
+2391,,arm,Armenian (Eastern),,,40,45,1
+2393,,baw,Bawm,,,22.5,92.25,1
+2394,,nbd,Nubian (Dongolese),,,18.25,30.75,1
+2395,,wrd,Wardaman,,,-15.5,131,1
+2396,,hai,Haida,,,53,-132,1
+2397,,kmu,Khmu',,,21,102,1
+2398,,usa,Usan,,,-4.83333333333,145.166666667,1
+2399,,pai,Paiwan,,,22.5,120.833333333,1
+2400,,ung,Ungarinjin,,,-16.3333333333,126,1
+2401,,bej,Beja,,,18,36,1
+2402,,dre,Drehu,,,-21,167.25,1
+2403,,gar,Garo,,,25.6666666667,90.5,1
+2404,,pms,Paamese,,,-16.5,168.25,1
+2405,,mss,Miwok (Southern Sierra),,,37.5,-120,1
+2406,,sml,Semelai,,,3,103,1
+2407,,yur,Yurok,,,41.3333333333,-124,1
+2408,,dag,Daga,,,-10,149.333333333,1
+2409,,otm,Otomí (Mezquital),,,20.1666666667,-99.1666666667,1
+2410,,igb,Igbo,,,6,7.33333333333,1
+2411,,nez,Nez Perce,,,46,-116,1
+2412,,brh,Brahui,,,28.5,67,1
+2413,,cah,Cahuilla,,,33.5,-116.25,1
+2414,,cle,Chinantec (Lealao),,,17.3333333333,-95.9166666667,1
+2415,,knm,Kunama,,,14.5,37,1
+2416,,nav,Navajo,,,36.1666666667,-108,1
+2417,,zqc,Zoque (Copainalá),,,17,-93.25,1
+2420,,iri,Irish,,,53,-8,1
+2421,,nko,Nkore-Kiga,,,-0.916666666667,29.8333333333,1
+2422,,squ,Squamish,,,49.6666666667,-123.166666667,1
+2423,,tru,Trumai,,,-11.9166666667,-53.5833333333,1
+2424,,dni,Dani (Lower Grand Valley),,,-4.33333333333,138.833333333,1
+2425,,nen,Nenets (Forest),,,69,72,1
+2426,,urk,Urubú-Kaapor,,,-2.33333333333,-46.5,1
+2427,,coo,Coos (Hanis),,,43.5,-124.166666667,1
+2429,,nht,Nahuatl (Tetelcingo),,,19.6666666667,-99,1
+2430,,yim,Yimas,,,-4.66666666667,143.55,1
+2431,,ika,Ika,,,10.6666666667,-73.75,1
+2432,,kse,Koyraboro Senni,,,16,0,1
+2433,,mun,Mundari,,,23,84.6666666667,1
+2434,,yid,Yidiny,,,-17,145.75,1
+2435,,krk,Karok,,,41.6666666667,-123,1
+2436,,brs,Barasano,,,-0.166666666667,-70.6666666667,1
+2437,,tab,Taba,,,0,127.5,1
+2438,,aco,Acoma,,,34.9166666667,-107.583333333,1
+2439,,pau,Paumarí,,,-6,-64,1
+2440,,arp,Arapesh (Mountain),,,-3.46666666667,143.166666667,1
+2441,,ond,Oneida,,,43,-75.6666666667,1
+2442,,asm,Asmat,,,-5.5,138.5,1
+2443,,ewe,Ewe,,,6.33333333333,0.416666666667,1
+2445,,hmo,Hmong Njua,,,28,105,1
+2446,,khs,Khasi,,,25.5,92,1
+2447,,khm,Khmer,,,12.5,105,1
+2448,,kio,Kiowa,,,37,-99,1
+2449,,wic,Wichita,,,33.3333333333,-97.3333333333,1
+2450,,juh,Ju|'hoan,,,-19,21,1
+2451,,klv,Kilivila,,,-8.5,151.083333333,1
+2452,,nug,Nunggubuyu,,,-13.75,135.666666667,1
+2453,,irq,Iraqw,,,-4,35.5,1
+2454,,kew,Kewa,,,-6.5,143.833333333,1
+2455,,snm,Sanuma,,,4.5,-64.6666666667,1
+2456,,shk,Shipibo-Konibo,,,-7.5,-75,1
+2457,,epe,Epena Pedee,,,3,-77,1
+2459,,koa,Koasati,,,34.8333333333,-85.1666666667,1
+2460,,luv,Luvale,,,-12,22,1
+2461,,san,Sango,,,5,18,1
+2462,,bag,Bagirmi,,,11.6666666667,16,1
+2463,,hzb,Hunzib,,,42.1666666667,46.25,1
+2464,,ing,Ingush,,,43.1666666667,45.0833333333,1
+2465,,mau,Maung,,,-11.9166666667,133.5,1
+2466,,kfe,Koromfe,,,14.25,-0.916666666667,1
+2467,,qim,Quechua (Imbabura),,,0.333333333333,-78,1
+2468,,ram,Rama,,,11.75,-83.75,1
+2469,,wch,Wichí,,,-22.5,-62.5833333333,1
+2470,,yag,Yagua,,,-3.5,-72,1
+2471,,niv,Nivkh,,,53.3333333333,142,1
+2473,,bma,Berber (Middle Atlas),,,33,-5,1
+2474,,wra,Warao,,,9.33333333333,-61.6666666667,1
+2475,,imo,Imonda,,,-3.33333333333,141.166666667,1
+2476,,awp,Awa Pit,,,1.5,-78.25,1
+2477,,kob,Kobon,,,-5.16666666667,144.333333333,1
+2478,,lat,Latvian,,,57,24,1
+2479,,mar,Maricopa,,,33.1666666667,-113.166666667,1
+2480,,ala,Alamblak,,,-4.66666666667,143.333333333,1
+2481,,goo,Gooniyandi,,,-18.3333333333,126.333333333,1
+2482,,kut,Kutenai,,,49.5,-116,1
+2483,,mxc,Mixtec (Chalcatongo),,,17.05,-97.5833333333,1
+2484,,lav,Lavukaleve,,,-9.08333333333,159.2,1
+2485,,rap,Rapanui,,,-27.1166666667,-109.366666667,1
+2486,,ain,Ainu,,,43,143,1
+2487,,jak,Jakaltek,,,15.6666666667,-91.6666666667,1
+2488,,lkt,Lakhota,,,43.8333333333,-101.833333333,1
+2489,,mrt,Martuthunira,,,-20.8333333333,116.5,1
+2490,,prh,Pirahã,,,-7,-62,1
+2491,,war,Wari',,,-11.3333333333,-65,1
+2492,,gua,Guaraní,,,-26,-56,1
+2493,,kho,Nama,,,-25.5,18,1
+2494,,mei,Meithei,,,24.75,94,1
+2444,,grb,Grebo,,,5,-8,2
+2428,,cre,Cree (Plains),,,54,-110,2
+2498,,myi,Mangarrayi,,,-14.6666666667,133.5,1
+2499,,tiw,Tiwi,,,-11.5,131,1
+2500,,knr,Kanuri,,,12,13,1
+2501,,kay,Kayardild,,,-17.05,139.5,1
+2502,,map,Mapudungun,,,-38,-72,1
+2503,,yor,Yoruba,,,8,4.33333333333,1
+2504,,yko,Yukaghir (Kolyma),,,65.75,150.833333333,1
+2505,,may,Maybrat,,,-1.33333333333,132.5,1
+2507,,bur,Burushaski,,,36.5,74.5,1
+2508,,cha,Chamorro,,,13.45,144.75,1
+2509,,chk,Chukchi,,,67,-173,1
+2510,,fij,Fijian,,,-17.8333333333,178,1
+2511,,heb,Hebrew (Modern),,,31.5,34.8333333333,1
+2512,,lan,Lango,,,2.16666666667,33,1
+2514,,tha,Thai,,,16,101,1
+2515,,yaq,Yaqui,,,27.5,-110.25,1
+2516,,zul,Zulu,,,-30,30,1
+2517,,sla,Slave,,,67,-125,1
+2518,,aeg,Arabic (Egyptian),,,30,31,1
+2519,,grw,Greenlandic (West),,,64,-51,1
+2520,,hix,Hixkaryana,,,-1,-59,1
+2521,,swa,Swahili,,,-6.5,39,1
+2522,,vie,Vietnamese,,,10.5,106.5,1
+2523,,hin,Hindi,,,25,77,1
+2526,,geo,Georgian,,,42,44,1
+2527,,knd,Kannada,,,14,76,1
+2528,,kha,Khalkha,,,47,105,1
+2529,,mal,Malagasy,,,-20,47,1
+2530,,sup,Supyire,,,11.5,-5.58333333333,1
+2531,,hau,Hausa,,,12,7,1
+2532,,mao,Maori,,,-40,176,1
+2533,,bsq,Basque,,,43,-3,1
+2534,,abk,Abkhaz,,,43.0833333333,41,1
+2535,,eve,Evenki,,,56,125,1
+2536,,kor,Korean,,,37.5,128,1
+2537,,prs,Persian,,,32,54,1
+2538,,ame,Amele,,,-5.25,145.583333333,1
+2539,,ger,German,,,52,10,1
+2540,,grk,Greek (Modern),,,39,22,1
+2541,,lez,Lezgian,,,41.6666666667,47.8333333333,1
+2542,,jpn,Japanese,,,37,140,1
+2543,,mnd,Mandarin,,,34,110,1
+2544,,hun,Hungarian,,,47,20,1
+2546,,fin,Finnish,,,62,25,1
+2547,,rus,Russian,,,56,38,1
+2548,,spa,Spanish,,,40,-4,1
+2549,,tur,Turkish,,,39,35,1
+2550,,fre,French,,,48,2,1
+2551,,eng,English,,,52,0,1
+2552,,gdk,Gadaba (Kondekor),,,18.75,83.5,1
+2553,,csk,Diola-Kasa,,,12.5,-16.75,1
+2554,,hli,Halkomelem (Island),,,49.2,-123,1
+2555,,hlu,Halkomelem (Upriver),,,49.25,-121.916666667,1
+2556,,dds,Donno So,,,14.3333333333,-3.58333333333,1
+2557,,tms,Tommo So,,,15,-3,1
+2558,,bly,Balyku,,,-22,120,1
+2559,,bxj,Bayungu,,,-23,114,1
+2560,,dhl,Dhalandji,,,-22.08,115,1
+2561,,ggd,Gugadj,,,-18.5,140.5,1
+2562,,guf,Gupapuyngu,,,-12,136,1
+2563,,vka,Kariera,,,-20.5,118.5,1
+2564,,kyt,Kaytej,,,-21,134,1
+2565,,lnj,Linngithig,,,-12.5,142.83,1
+2566,,mrj,Mirniny,,,-31,129,1
+2567,,nlr,Ngarla,,,-20,119,1
+2568,,nly,Nyamal,,,-21,119,1
+2569,,ump,Umpila,,,-13.5,143.5,1
+2574,,ylr,Yalarnnga,,,-22,140,1
+2575,,agb,Leggbó,,,6,8,1
+2576,,wec,Welsh (Colloquial),,,52.75,-3.5833,1
+2577,,tia,Tima,,,11.6666666667,29.25,1
+2578,,wna,Wan,,,7.83333333333,-5.86666666667,1
+2579,,ddj,Dadjriwalé,,,5.25,-5.66666666667,1
+2580,,ney,Neyo,,,5,-6,1
+2581,,jms,Jamsay,,,14.4166666667,-2.5,1
+2582,,nrg,Nanerge,,,11.75,-5,1
+2583,,wwa,Waama,,,10.5833333333,1.66666666667,1
+2584,,ncm,Ncàm,,,9.33333333333,0.666666666667,1
+2586,,mmi,Mambai,,,9.66666666667,14,1
+2587,,myg,Mayogo,,,3,29,1
+2589,,ajg,Ajagbe,,,7,1.75,1
+2590,,guw,Gungbe,,,6.5,2.5,1
+2591,,avk,Avikam,,,5.16666666667,-5.5,1
+2592,,mkq,Mankon,,,6,10.1666666667,1
+2593,,mdw,Mbosi,,,-1.25,15.5,1
+2594,,bdu,Budu,,,2,28,1
+2595,,vif,Vili,,,-5.5,14,1
+2596,,kwy,Iwoyo,,,-5.5,12.25,1
+2597,,sku,Suku,,,-6,17.6666666667,1
+2598,,bgm,Bangime,,,14.9166666667,-3.83333333333,1
+2599,,zag,Beria,,,16,23,1
+2600,,mgq,Mango,,,8.75,17,1
+2601,,tsk,Tamashek,,,20,-2,1
+2602,,hna,Mina,,,10.3333333333,13.8333333333,1
+2604,,arj,Arabic (Kuwaiti),,,29.5,47.5,1
+2605,,ryu,Shuri,,,26.5,127.5,1
+2606,,bkb,Betta Kurumba,,,11.5,76.75,1
+2608,,ksn,Kasong,,,12.75,102.116666667,1
+2609,,nmm,Manange,,,28.5833333333,84,1
+2610,,tbx,Tangbe,,,28.9166666667,83.75,1
+2611,,tdi,Tibetan (Dingri),,,28.5,86.5,1
+2612,,tdr,Tibetan (Drokpa),,,32.25,81.25,1
+2613,,kgy,Kyirong,,,28.4166666667,85.3333333333,1
+2614,,amt,Amdo (Themchen),,,38,98,1
+2616,,rpa,Rang Pas,,,30.3333333333,79.3333333333,1
+2617,,knz,Kham (Tibetan) (Nangchen),,,32.5,96.5,1
+2618,,khd,Kham (Dege),,,31.8333333333,98.5833333333,1
+2619,,xns,Kanashi,,,32.0833333333,77.25,1
+2622,,gyc,Gyarong (Cogtse),,,31.5,102,1
+2623,,rgc,rGyalrong (Caodeng),,,31.6666666667,101.75,1
+2624,,tvt,Tutsa,,,27.5,96.5,1
+2625,,ral,Ralte,,,23.75,92.75,1
+2626,,mhl,Miri (Hill):,,,27.9166666667,93.8333333333,1
+2627,,lic,Hlai (Baoding),,,19,109.5,1
+2628,,khn,Khün,,,21,100,1
+2629,,smp,Shompen,,,7,93.75,1
+2632,,bwc,Bajau (West Coast),,,6.33333333333,116.333333333,1
+2633,,ttd,Tetun Dili,,,-8.58333333333,125.583333333,1
+2634,,lab,Labu,,,-6.75,146.916666667,1
+2635,,vnm,Vinmavis,,,-16.1666666667,167.416666667,1
+2636,,psw,Port Sandwich,,,-16.5,167.75,1
+2637,,lmu,Lamen,,,-16.5833333333,168.166666667,1
+2638,,erk,Efate (South),,,-17.75,168.416666667,1
+2639,,ndr,Nadroga,,,-18.0833333333,177.416666667,1
+2640,,mxe,Ifira-Mele,,,-17.75,168.25,1
+2641,,mqf,Momuna,,,-4.83333333333,139.25,1
+2642,,mpt,Mian,,,-4.75,141.5,1
+2643,,mkj,Makasae,,,-8.66666666667,126.5,1
+2644,,abv,Abui,,,-8.25,124.666666667,1
+2645,,adg,Adang,,,-8.2,124,1
+2607,,rji,Raji,,,28,82.75,2
+2588,,mnz,Munzombo,,,3,18.4166666667,1
+2647,,dlm,Dla (Menggwa),,,-3.55,141.033333333,1
+2648,,brp,Barupu,,,-3.08333333333,142.083333333,1
+2649,,fqs,Momu,,,-3,141.583333333,1
+2650,,kwt,Kwomtari,,,-3.5,141.5,1
+2651,,bio,Nai,,,-3.71666666667,141.266666667,1
+2652,,amm,Ama,,,-4.21666666667,141.616666667,1
+2653,,owi,Owininga,,,-4.5,141.75,1
+2654,,urt,Urat,,,-3.66666666667,142.833333333,1
+2655,,xbi,Kombio,,,-3.5,142.75,1
+2656,,aoj,Mufian,,,-3.5,143,1
+2657,,kmz,Kamasau,,,-3.91666666667,143.666666667,1
+2658,,inn,Innamincka,,,-27.75,140.75,1
+2659,,msq,Musqueam,,,49.1666666667,-123,1
+2660,,tee,Tepehua (Huehuetla),,,20.5,-98,1
+2662,,qum,Sipakapense,,,15.25,-91.75,1
+2663,,lec,Leko,,,-15,-67.9166666667,1
+2664,,eme,Émérillon,,,3.16666666667,-52.4166666667,1
+2665,,kyz,Kayabí,,,-11,-55.5,1
+2666,,kno,Kanoê,,,-13.25,-61,1
+2667,,cpy,Chipaya,,,-18.75,-67.8333333333,1
+2668,,kkq,Kuikúro,,,-12.4166666667,-53.0833333333,1
+2669,,pnx,Panará,,,-10,-55,1
+2670,,kqq,Krenak,,,-15.5,-41,1
+2671,,huc,=|Hoan,,,-25.5,25,1
+2672,,urn,Urarina,,,-4.5,-75.5,1
+2673,,tsr,Taushiro,,,-3.25,-75.5,1
+2674,,acu,Achuar,,,-2.66667,-76,1
+2675,,qhu,Quechua (Huallaga),,,-9.5,-75.5,1
+2678,,ndy,Ndyuka,,,4.5,-54.5,1
+1159,,bao,Bao'an,,,35.75,102.833333333333,2
+140,,kjr,Koorete,,,5.83333333333,37.8333333333,2
+822,,nbh,Ghulfan,,,12,31,2
+1309,,kgr,Kagulu,,,-6.33333333333,37,2
+1453,,gal,Galo,,,28.1666666667,94.6666666667,2
+1953,,emb,Emberá (Northern),,,6.83333333333,-77.1666666667,2
+128,,kgl,Umbu Ungu,,,-6,144,2
+1219,,bbf,Bobo Madaré (Northern),,,12.4166666666667,-4.3333333333333,2
+2179,,tam,Tamang (Eastern),,,27.5,85.666666666667,2
+50,,dhm,Dhimal,,,26.6666666667,87.75,2
+157,,msy,Magar (Syangja),,,28.0833333333,83.8333333333,2
+364,,klg,Kulung,,,27.5,87,2
+1371,,thn,Thangmi,,,27.75,86,2
+1386,,cml,Camling,,,27,86.6666666667,2
+1770,,nwd,Newar (Dolakha),,,27.3333333333,86,2
+1829,,cpn,Chepang,,,27.6666666667,84.75,2
+1834,,khg,Khaling,,,27.5,86.6666666667,2
+1891,,dmi,Dumi,,,27.25,86.6666666667,2
+2022,,hay,Hayu,,,27.25,86,2
+2037,,bel,Belhare,,,26.9666666667,87.3,2
+2060,,kmh,Kham,,,28.5,82.75,2
+2158,,new,Newari (Kathmandu),,,27.6666666667,85.5,2
+2277,,lim,Limbu,,,27.1666666667,87.75,2
+2620,,wme,Wambule,,,29.25,85.9166666667,2
+2621,,ybi,Yamphu,,,27.5833333333,87.3333333333,2
+9,,alx,Alas,,,3.66666666667,97.8333333333,2
+31,,bat,Batak,,,10.25,119.083333333,2
+46,,crh,Chru,,,11.5,108.5,2
+58,,eml,Embaloh,,,1.16666666667,112.333333333,2
+108,,iir,Indonesian (Papuan),,,-2.5,140.666666667,2
+109,,inj,Indonesian (Jakarta),,,-6.16666666667,106.75,2
+112,,isn,Isnag,,,18.25,121,2
+118,,iva,Ivatan,,,20.5,122,2
+126,,kao,Karao,,,16.5,120.833333333,2
+129,,kbr,Kayan (Baram),,,3.5,114.5,2
+132,,klt,Kelabit,,,3.66666666667,115.416666667,2
+134,,ktp,Ketapang,,,-1.86666666667,110,2
+144,,kuy,Kutai,,,-0.333333333333,116.666666667,2
+152,,lud,Lun Dayeh,,,4,115.916666667,2
+158,,mgn,Magindanao,,,6.83333333333,124.5,2
+160,,myk,Malay (Kuala Lumpur),,,3.16666666667,101.7,2
+161,,mmu,Malay (Ulu Muar),,,2.66666666667,102.5,2
+2676,,pir,Piro,,,-11,-73.5,2
+165,,mnr,Mandar,,,-3.41666666667,119.083333333,2
+171,,mel,Melanau,,,2.5,111.5,2
+184,,nrm,Narom,,,4.41666666667,114,2
+222,,tgb,Tagbanwa (Aborlan),,,9.5,118.5,2
+247,,wwy,Waray-Waray,,,12,125,2
+314,,dca,Dumagat (Casiguran),,,16.3333333333,122,2
+337,,itw,Itawis,,,17.75,121.5,2
+347,,kky,Kankanay,,,16.75,120.583333333,2
+356,,keu,Kenyah (Uma' Lung),,,3,115.833333333,2
+440,,rad,Rade,,,13,108.5,2
+443,,rgn,Roglai (Northern),,,12.1666666667,108.833333333,2
+487,,ymi,Yami,,,22,121.5,2
+507,,atb,Aralle-Tabulahan,,,-2.75,119.25,2
+515,,bkd,Binukid,,,8.25,124.833333333,2
+521,,daa,Da'a,,,-1,119.583333333,2
+544,,kli,Kaili,,,-1.16666666667,120,2
+552,,kuz,Kulamanen,,,7.75,125,2
+554,,lje,Lauje,,,-0.5,120,2
+556,,mms,Mamasa,,,-3.08333333333,119.666666667,2
+566,,mgd,Mongondow,,,0.666666666667,124,2
+595,,sgr,Sangir,,,3.5,125.5,2
+599,,skl,Sikule,,,2.66666666667,96,2
+605,,tld,Talaud,,,4.25,126.75,2
+612,,tnt,Tontemboan,,,1.08333333333,124.5,2
+613,,trd,Toraja,,,-3,119.75,2
+614,,tst,Tsat,,,18.25,109.5,2
+629,,akl,Aklanon,,,11.5833333333,122.333333333,2
+641,,blg,Balangao,,,17.1666666667,121.166666667,2
+642,,blk,Balantak,,,-0.833333333333,123.25,2
+643,,bbm,Bambam,,,-3.08333333333,119.083333333,2
+645,,bnt,Bantik,,,1.41666666667,124.75,2
+657,,beg,Begak-Ida'an,,,5.25,118.833333333,2
+679,,gay,Gayo,,,4.5,97.5,2
+711,,mly,Malay,,,3,102,2
+724,,npu,Napu,,,-1.33333333333,120.416666667,2
+747,,sly,Selayar,,,-6,120.5,2
+797,,hnn,Hanunóo,,,12.3333333333,121.25,2
+860,,bgg,Banggai,,,-1.41666666667,123.166666667,2
+988,,mks,Makassar,,,-5.41666666667,119.583333333,2
+991,,mnt,Mentawai,,,-1.5,99,2
+1001,,pna,Pamona,,,-1.75,120.833333333,2
+1039,,mdr,Madurese,,,-7,113.5,2
+1053,,tor,Toratán,,,1.08333333333,124.833333333,2
+1064,,cme,Cham (Eastern),,,11.3333333333,108.5,2
+1145,,tat,Tatana',,,5.5,115.5,2
+1189,,mrn,Maranao,,,7.83333333333,124.25,2
+1275,,sim,Simeulue,,,2.5,96.25,2
+1281,,uma,Uma,,,-1.83333333333,120,2
+1294,,bal,Balinese,,,-8.33333333333,115.25,2
+1298,,bug,Bugis,,,-4,120,2
+1466,,mds,Manadonese,,,1.5,124.833333333,2
+1487,,tsg,Tausug,,,6,121,2
+1489,,try,Tiruray,,,6.75,124.166666667,2
+1509,,kdz,Kadazan,,,5.91666666667,117.166666667,2
+1550,,hil,Hiligaynon,,,10.25,123,2
+1641,,ilo,Ilocano,,,16,121,2
+1672,,bkl,Bikol,,,13.3333333333,123.5,2
+1694,,mmn,Mamanwa,,,9.41666666667,125.5,2
+1765,,mwb,Manobo (Western Bukidnon),,,7.66666666667,124.75,2
+1775,,pnn,Pangasinan,,,15.9166666667,120.333333333,2
+1791,,btk,Bontok,,,17.0833333333,120.916666667,2
+1795,,eno,Enggano,,,-5.41666666667,102.25,2
+1801,,ifu,Ifugao (Batad),,,16.8333333333,121.083333333,2
+1817,,tim,Timugon,,,5,116,2
+1822,,agc,Agta (Central),,,17.9666666667,121.833333333,2
+1869,,kpm,Kapampangan,,,15.3333333333,120.5,2
+1881,,tbo,Tboli,,,6.16666666667,124.5,2
+1885,,wlo,Wolio,,,-5.5,122.75,2
+1917,,url,Urak Lawoi',,,8,98.3333333333,2
+1924,,chw,Cham (Western),,,12,105.5,2
+1987,,tno,Tondano,,,1.25,125,2
+2018,,ceb,Cebuano,,,10,124,2
+2063,,min,Minangkabau,,,-1,101,2
+2081,,nia,Nias,,,1,97.75,2
+2140,,ruk,Rukai (Tanan),,,22.8333333333,120.833333333,2
+2152,,iba,Iban,,,2,112,2
+2201,,bto,Batak (Toba),,,2.5,99,2
+2233,,sun,Sundanese,,,-7,107,2
+2269,,mna,Muna,,,-5,122.5,2
+2343,,ace,Acehnese,,,5.5,95.5,2
+2418,,bkr,Batak (Karo),,,3.25,98.25,2
+2506,,tuk,Tukang Besi,,,-5.5,123.5,2
+2525,,tag,Tagalog,,,15,121,2
+2545,,ind,Indonesian,,,0,106,2
+2630,,agd,Agta (Dupaningan),,,18,122.083333333,2
+786,,cpa,Campa Pajonal Asheninca,,,-10.6666666667,-74.25,2
+1652,,mpr,Maipure,,,5.5,-67.5,2
+2208,,res,Resígaro,,,-2.41666666667,-71.5,2
+2472,,apu,Apurinã,,,-9,-67,2
+2313,,kon,Kongo,,,-5,15,2
+2679,,nbm,Ngbaka (Ma'bo),,,3.56,18.36,1
+2392,,aym,Aymara (Central),,,-17,-69,1
+802,,jlu,Luwo,,,8,28,1
+275,,abb,Arabic (Chadian),,,13.8333333333,20.8333333333,1
+1441,,bka,Baka (in South Sudan),,,4.83333333333,29.25,1
+1440,,bng,Qaget,,,-4.58333333333,152,1
+280,,bpb,Bahnar,,,13.8333333333,108.333333333,1
+1300,,chu,Nivacle,,,-23.5,-60.5,1
+130,,kag,Komering,,,-3.16666666667,104.916666667,1
+567,,mug,Bargam,,,-4.88333333333,145.75,1
+201,,pcm,Poqomam,,,14.6666666667,-90.5,1
+745,,say,Sayula Popoluca,,,17.8333333333,-95,1
+230,,tec,Tectiteco,,,15.4166666667,-92.0833333333,1
+250,,ygd,Dii,,,8,14,1
+1435,,zqs,Popoluca (Sierra),,,18.3333333333,-95.1666666667,1
+978,,cos,Rumsien,,,36.8333333333333,-121.75,1
+2631,,bgz,Banggi,,,7.25,117.166666667,2
+604,,sum,Mayangna,,,13,-84.5,1
+36,,biq,Bilaan (Koronadal),,,6,125.333333333,2
+1952,,don,Dong (Southern),,,27,109,1
+135,,khv, Khwarshi,,,42.25,46.1666666667,1
+2125,,kiw, Kiwai (Southern),,,-8,143.5,1
+2661,,mxx,Mixe (Ayutla),,,17.0833333333,-96.0833333333,1
+582,,prc,Paresi,,,-14,-57.5,2
+2680,,brq,Bera,,,1.5,30.03,1
+2681,,yiw,Yi (Wuding-Luquan),,,25.5,102.5,1
+2682,,ktm,Kathlamet,,,46.14,-123.4,1
+2683,,bnv,Baniva,,,5.26,-67.56,1
+2684,,gbs,Gbaya (Southwest),,,4.7,14.96,1
