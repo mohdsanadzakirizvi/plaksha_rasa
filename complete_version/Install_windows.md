@@ -93,14 +93,16 @@ Note that the above set of commands will also take some time as spaCy downloads 
 
 ## III. Setting up the project
 
-a. Open "start menu" and search for "git cmd":
-
-![](images/git_cmd.PNG)
-
-b. Download the project code from github using the following command:
+a. Download the project code from github using the following command:
 
 ```
 git clone https://github.com/mohdsanadzakirizvi/plaksha_rasa.git
+```
+
+b. Install additional dependencies by this command:
+
+```
+pip install -r requirements.txt
 ```
 
 Once  the above command is finished, you have the project code with you :) 
