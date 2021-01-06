@@ -2,13 +2,13 @@
 
 Apart from Rasa, we have three main pre-requisite softwares for this project - namely Git, Miniconda (Python and its packages) and Ngrok. The following are instructions to install each:
 
-A. Git usually comes by default on Linux, if you don't have it then you can get it here: 
+A. Git usually comes by default on macOS, if you don't have it then you can get it here: 
 
 **[Ignore this step if you already have Git installed.]**
 
 Follow the instructions and use default options in the setup:
 ```
-https://git-scm.com/download/linux
+https://git-scm.com/download/mac
 ```
 
 B. Install miniconda from the following link, select Python 3.8 version. 

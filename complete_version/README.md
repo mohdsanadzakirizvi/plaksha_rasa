@@ -4,6 +4,8 @@ A basic chatbot using Rasa for accessing info about languages from the [World At
 
 **[Please take help of course TA for any doubts]**
 
+**[This is the complete version that can be used to just start chatting with the chatbot (has all the prerequisite code).]**
+
 Installation
 ------------------
 
