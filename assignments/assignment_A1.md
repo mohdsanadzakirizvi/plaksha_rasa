@@ -1,12 +1,18 @@
-Welcome to assignment A1!
+Welcome to assignment A1! [Total Marks: 10]
 -------------------------
 
 - This assignment is going to reinforce some of the basic concepts of building a chatbot (using Rasa) that were discussed in the class.
-- There are two parts to the assignment: 1. NLU task and 2. Dialogue task that are discussed further.
+- There are two compulsory parts to the assignment: A1. NLU task and A2. Dialogue task that are discussed further. The third task is optional for those who want to challenge themselves more.
 - You may use the **complete version** of the chatbot for this assignment.
 - Though it's not needed for the current assignment, feel free to refer the reading material to revise the concepts.
 
-## 1. NLU task
+## Instructions for submitting the assignment
+
+ - The deadline for this assignment is **17th Jan EOD**.
+ - If the assignment is submitted after 17th but before 20th then there will be a **penalty of -5**. If submitted after 20th or not submitted at all, no marks will be awarded.
+ - You will have to submit the whole working chatbot folder as a zip file in moodle, the link for which will be provided.
+
+## A1. NLU task [Total Marks: 5]
 
 - You are already familiar that Rasa tries to learn patterns from the NLU data to extract entities and intents from incoming user message.
 - These training examples are added in the `data/nlu.yml` file.
@@ -15,7 +21,7 @@ Welcome to assignment A1!
 - Note that your assignment will be evaluated on **uniqueness** of your training data and will be compared with your peer's submissions and might be penalised if high % of overlap is observed (same ways of invoking the intent or same languages as entities).
 - A high score will be given for submissions that have a good variety of cases covered, as the main objective of this part is to make you "think how varied real world user messages can get" and design the data accordingly.
 
-## 2. Dialogue task
+## A2. Dialogue task [Total Marks: 5]
 
 - Chatbots in the real world learn improve continously from user feedback, and  we will learn how to emulate that behavior (albeit partially) in this part of the assignment.
 - We have already learned about rules in the class for adding basic dialogue ability to the chatbot. These rules are added in the `data/rules.yml` file.
@@ -36,7 +42,9 @@ user: <user can respond yes or no>
 - You will have to write a new rule for enabling this behaviour. You can start with the existing rules present in the file to get a better idea.
 - Note that along with adding the new rule, you will also have to make minor adjustments in the `domain.yml` and `data/nlu.yml` files. Feel free to look at the existing code for ideas.
 
-## Brownie task for the brave-hearted [Optional; Only for adventurers!]
+## A3. More fun with WALS data [Optional; 5 Marks ~ Only for adventurers!]
+
+**[Below is a brownie task for the brave-hearted. It's "optional" for only those who want to explore a bit more and learn more.]** 
 
 - Feel the above tasks are too easy for you? Do you yearn for something more interesting? 
 - Then here's a task for you to get not only noticed by everyone but also learn much more about Rasa.
