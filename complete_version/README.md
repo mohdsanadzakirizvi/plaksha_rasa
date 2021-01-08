@@ -16,6 +16,8 @@ Installation
 How to run Locally
 ------------------ 
 
+**Note: You need to first go to the complete_version folder in your terminal and then run the following commands.**
+
 1. You can train the models by running:  
 ```rasa train```  
 This will train the Rasa NLU and Core models and store them inside inside the `models/` folder of your project directory.
