@@ -75,11 +75,20 @@ a. Download the project code from github using the following command:
 git clone https://github.com/mohdsanadzakirizvi/plaksha_rasa.git
 ```
 
-b. Install additional dependencies by this command:
+b. Install additional dependencies by these command:
 
 ```
-pip install -r ../requirements.txt
+cd plaksha_rasa
 ```
+
+```
+cd practice_version
+```
+
+```
+pip install -r requirements.txt
+```
+
 
 Once  the above command is finished, you have the project code with you :) 
 
