@@ -8,8 +8,7 @@ Welcome to assignment A1! [Total Marks: 10 + 5 (bonus)]
 
 ## Instructions for submitting the assignment
 
- - The deadline for this assignment is **17th Jan EOD**.
- - If the assignment is submitted after 17th but before 20th then there will be a **penalty of -5**. If submitted after 20th or not submitted at all, no marks will be awarded.
+ - The deadline for this assignment is **20th Jan EOD**.
  - You will have to submit the whole working chatbot folder as a **zip** file in moodle, the link for which will be provided.
 
 ## A1. NLU task [Marks: 5]
