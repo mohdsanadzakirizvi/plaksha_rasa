@@ -2,7 +2,7 @@ Welcome to assignment A1! [Total Marks: 10 + 5 (bonus)]
 -------------------------
 
 - This assignment is going to reinforce some of the basic concepts of building a chatbot (using Rasa) that were discussed in the class.
-- There are three compulsory parts to the assignment: A1. NLU task, A2. Dialogue task and A3. Evaluation task that are discussed further. The fourth task is optional for those who want to challenge themselves more.
+- There are three compulsory parts to the assignment: 1. NLU task, 2. Dialogue task and 3. Evaluation task that are discussed further. The fourth task is optional for those who want to challenge themselves more.
 - You may use the **complete version** of the chatbot for this assignment.
 - Though it's not needed for the current assignment, feel free to refer the reading material to revise the concepts.
 
@@ -11,7 +11,7 @@ Welcome to assignment A1! [Total Marks: 10 + 5 (bonus)]
  - The deadline for this assignment is **20th Jan EOD**.
  - You will have to submit the whole working chatbot folder as a **zip** file in moodle, the link for which will be provided.
 
-## A1. NLU task [Marks: 5]
+## 1. NLU task [Marks: 5]
 
 - You are already familiar that Rasa tries to learn patterns from the NLU data to extract entities and intents from incoming user message.
 - These training examples are added in the `data/nlu.yml` file.
@@ -20,7 +20,7 @@ Welcome to assignment A1! [Total Marks: 10 + 5 (bonus)]
 - Note that your assignment will be evaluated on **uniqueness** of your training data and will be compared with your peer's submissions and might be penalised if high % of overlap is observed (same ways of invoking the intent or same languages as entities).
 - A high score will be given for submissions that have a good variety of cases covered, as the main objective of this part is to make you "think how varied real world user messages can get" and design the data accordingly.
 
-## A2. Dialogue task [Marks: 4]
+## 2. Dialogue task [Marks: 4]
 
 - Chatbots in the real world learn improve continously from user feedback, and  we will learn how to emulate that behavior (albeit partially) in this part of the assignment.
 - We have already learned about rules in the class for adding basic dialogue ability to the chatbot. These rules are added in the `data/rules.yml` file.
@@ -41,14 +41,14 @@ user: <user can respond yes or no>
 - You will have to write a new rule for enabling this behaviour. You can start with the existing rules present in the file to get a better idea.
 - Note that along with adding the new rule, you will also have to make minor adjustments in the `domain.yml` and `data/nlu.yml` files. Feel free to look at the existing code for ideas.
 
-## A3. Evaluation [Marks: 1] 
+## 3. Evaluation [Marks: 1] 
 
 - You must have noticed many corner cases for your chatbot even after all the training and additional data.
 - In this assignment, you have to list 10 such queries or cases in which the chatbot fails or is unable to extract the correct intent/entity. 
 - You also have to provide: 1. a one line description of what you think might be the reason for each fail and 2. what can be possible ways to mitigate the issue (eg. more training data, better NLU model etc.)?
 - You can create a file "evaluation.txt" and submit it along with the rest of the chatbot.
 
-## A4. More fun with WALS data [Optional; 5 Marks ~ Only for adventurous ones]
+## 4. More fun with WALS data [Optional; 5 Marks ~ Only for adventurous ones]
 
 **[Below is a brownie task for the brave-hearted. It's "optional" for only those who want to explore a bit more and learn more.]** 
 
