@@ -4,7 +4,7 @@ A basic chatbot using Rasa for accessing info about languages from the [World At
 
 **[Please take help of course TA for any doubts]**
 
-**[This is the practice version that should be used while following along with the class.]**
+**[This is the complete version that can be used to just start chatting with the chatbot (has all the prerequisite code).]**
 
 Installation
 ------------------
@@ -70,7 +70,13 @@ ngrok http 5005
 your_url_here/webhooks/slack/webhook
 ```
 
-And you should now be able to talk to your chatbot in Slack! 
+8. After verification of the ngrok url (in events subscription), subscribe to the following **bot_events** on the same page: app_mention, message.channels, message.im
+
+![](images/bot_events.png)
+
+And save changes.
+
+You should now be able to talk to your chatbot in Slack! 
 
 License
 ------------------
