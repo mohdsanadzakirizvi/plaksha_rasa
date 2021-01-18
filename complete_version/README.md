@@ -72,7 +72,7 @@ your_url_here/webhooks/slack/webhook
 
 8. After verification of the ngrok url (in events subscription), subscribe to the following **bot_events** on the same page: app_mention, message.channels, message.im
 
-![](images/bot_events.PNG)
+![](images/bot_events.png)
 
 And save changes.
 
