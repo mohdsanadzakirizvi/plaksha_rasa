@@ -70,7 +70,13 @@ ngrok http 5005
 your_url_here/webhooks/slack/webhook
 ```
 
-And you should now be able to talk to your chatbot in Slack! 
+8. After verification of the ngrok url (in events subscription), subscribe to the following **bot_events** on the same page: app_mention, message.channels, message.im
+
+![](images/bot_events.PNG)
+
+And save changes.
+
+You should now be able to talk to your chatbot in Slack! 
 
 License
 ------------------
