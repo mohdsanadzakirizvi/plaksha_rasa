@@ -4,9 +4,6 @@ Assignment A2 : Fine-Tuning a State-of-Art Language Model for Text Generation
 - The objective of this assignment is to teach you the fundamentals of working with Neural LMs. On completion, you will be able to use same techniques and ideas for working with almost any Neural LM out there for any kind (domain) of dataset you may have. 
 - In this assignment you're expected to fine-tune [GPT-2](https://openai.com/blog/better-language-models/) (precursor to the GPT-3) Language Model on a given set of corpora. After fine-tuning, you will generate some text using the same LM.
 - Note that this is an "hands-on" assignment in its truest sense so we won't be giving you any starter code like we did in the first assignment. Rather, we'll be providing curated list of resources (blogs) using which and upon further exploration you can easily complete the assignment. 
-- Just to clarify, you'd definitely need to put good effort in exploration. The more you do, the more you'll learn. 
-
-So let's start with the assignment, shall we?
 
 ## Assignment Specifics:
 
