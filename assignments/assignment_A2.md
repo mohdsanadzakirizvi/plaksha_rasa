@@ -32,7 +32,7 @@ So let's start with the assignment, shall we?
  - Second, the final version of the code (Google Collab notebook + any scripts you used).
  - Third, we want you to submit a summary of your training experiments in the following format:
 
-![](images/a2_subm_format.png)
+![](images/a2_subm_format.PNG)
 
  - Since you will be experimenting with number of epochs and learning rate values, you need to submit the above table. Here a, b and c are just placeholders - you're free to use your own experiment's values.
 
