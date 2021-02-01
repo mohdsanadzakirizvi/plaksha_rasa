@@ -39,6 +39,7 @@ So let's start with the assignment, shall we?
 **Where to ask questions/read others questions if you're stuck?:**
  - [Hugging Face Forums](https://discuss.huggingface.co/)
  - [Hugging Face Github Issues](https://github.com/huggingface/transformers/issues)
+ - Feel free to refer to any such online forums like StackOverflow etc.
 
 **Note:**
 
