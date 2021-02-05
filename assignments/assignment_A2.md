@@ -1,4 +1,4 @@
-Assignment A2 : Fine-Tuning a State-of-Art Language Model for Text Generation
+Assignment A3 : Fine-Tuning a State-of-Art Language Model for Text Generation
 -------------------------------------------------------------
 
 **[Deadline 8th Feb, submit on Moodle]**
